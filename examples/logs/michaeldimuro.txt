@@ -1,0 +1,59 @@
+2018-03-28 17:36:46.564696: Successful Login!
+2018-03-28 17:36:50.700743: Getting interest followers..
+2018-03-28 17:37:44.503235: Followed user: mrr_black____
+2018-03-28 17:37:47.726930: Followed user: afshar.farzin
+2018-03-28 17:37:49.828656: Followed user: mauritox1989_
+2018-03-28 17:37:51.465865: Followed user: lifesnotout2getu
+2018-03-28 17:37:54.540305: Followed user: nitinvarma9169
+2018-03-28 17:37:58.224468: Followed user: laura_alexa_95
+2018-03-28 17:38:02.115812: Followed user: alma_steel
+2018-03-28 17:38:05.788163: Followed user: reneeahern
+2018-03-28 17:38:09.693636: Followed user: tarzan.is.missing
+2018-03-28 17:38:11.332673: Followed user: itworks_gabbywraps
+2018-03-28 17:38:14.403808: Followed user: thecryptochic
+2018-03-28 17:38:18.500204: Followed user: haileeargondizzo
+2018-03-28 17:38:20.138600: Followed user: justt_jill
+2018-03-28 17:38:21.983110: Followed user: livpartymoney
+2018-03-28 17:38:25.053343: Followed user: kiimmartinez28
+2018-03-28 17:38:27.102618: Followed user: vodkaghost
+2018-03-28 17:38:28.945487: Followed user: shaquirareyes19
+2018-03-28 17:38:32.975248: Followed user: ankit6233
+2018-03-28 17:38:37.136501: Followed user: mar__cilio
+2018-03-28 17:38:38.346073: Taking a break..
+2018-03-28 17:44:33.624808: Successful Login!
+2018-03-28 17:44:39.698354: Getting interest followers..
+2018-03-28 17:45:33.508376: Followed user: fatima_sobrevilla
+2018-03-28 17:45:47.230759: Followed user: mysticalmesss
+2018-03-28 17:45:51.119853: Followed user: chiinahl
+2018-03-28 17:45:52.963269: Followed user: karenyulietrincon7122
+2018-03-28 17:45:56.854419: Followed user: katherine_alvarezz
+2018-03-28 17:45:58.902856: Followed user: cesar_santamaria_10
+2018-03-28 17:46:01.770371: Followed user: p_ready1228
+2018-03-28 17:46:05.455242: Followed user: karlaryg
+2018-03-28 17:46:09.353952: Followed user: ro_the_alien
+2018-03-28 17:46:12.010272: Followed user: isabella_bardwell
+2018-03-28 17:46:14.877656: Followed user: meminot2711
+2018-03-28 17:46:19.384013: Followed user: jaqui_ugarte_ibanez
+2018-03-28 17:46:22.046707: Followed user: sofi.__.dominguez
+2018-03-28 17:46:24.048254: Taking a break for 22 minutes.
+2018-03-29 14:01:50.410177: Successful Login!
+2018-03-29 14:01:57.595673: Getting interest followers..
+2018-03-29 14:03:19.896306: Followed user: ruben_190567w7
+2018-03-29 14:03:23.585082: Followed user: aluzdelcarmen
+2018-03-29 14:03:27.884670: Followed user: choko_tu
+2018-03-29 14:03:29.932224: Followed user: themangosaurio
+2018-03-29 14:03:31.979530: Followed user: angelaat91
+2018-03-29 14:03:34.846360: Followed user: _.jxnaee._
+2018-03-29 14:03:39.759186: Followed user: maitepapitas
+2018-03-29 14:03:43.445976: Followed user: _una.bajita.mas_
+2018-03-29 14:03:46.313342: Followed user: carolina__calvache_
+2018-03-29 14:03:48.565153: Followed user: maariiaa_jrt
+2018-03-29 14:03:52.660362: Followed user: claudia.03montanez
+2018-03-29 14:03:56.347924: Followed user: leidyvanessa_martinez.14
+2018-03-29 14:03:58.882304: Followed user: camila_quiroga_
+2018-03-29 14:04:00.645383: Followed user: 04____mr12
+2018-03-29 14:04:05.551412: Followed user: valeria_zuzizu
+2018-03-29 14:04:10.070716: Followed user: ivoone_lopez19
+2018-03-29 14:04:13.962146: Followed user: miriamordonez
+2018-03-29 14:04:16.420275: Followed user: gatamr2005
+2018-03-29 14:04:18.421940: Taking a break for 21 minutes.
