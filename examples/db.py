@@ -10,6 +10,7 @@ class DB:
         try:
             self.conn = sqlite3.connect(db_file)
             self.conn.text_factory = str
+            self.create_tables()
             print(sqlite3.version)
         except Error as e:
             print(e)
@@ -33,7 +34,6 @@ class DB:
         return followed
 
 
-    def create_table(self):
-        self.conn.execute('''CREATE TABLE followed
-                     (user text, followed text)''')
+    def create_tables(self):
+        self.conn.execute('''CREATE TABLE if not exists followed (user text, followed text)''')
         self.conn.commit()

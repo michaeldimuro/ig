@@ -1,0 +1,9 @@
+2018-03-30 13:28:12.365819: Successful Login!
+2018-03-30 13:28:13.403423: Getting interest followers..
+2018-03-30 13:28:14.212746: Followed user: casadepedracorretoraseguros
+2018-03-30 13:28:16.871745: Followed user: closigma
+2018-03-30 13:28:20.353845: Followed user: cornejacoannandale
+2018-03-30 13:28:21.931585: Followed user: resultsthroughmotivation
+2018-03-30 13:28:23.430557: Followed user: const.divinecustomhomes
+2018-03-30 13:28:26.907046: Followed user: fitmedistribucion
+2018-03-30 13:28:28.344117: Followed user: all.in_fitness

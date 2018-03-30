@@ -1,8 +1,10 @@
+import os
 from InstagramAPI import InstagramAPI
 import time
 import datetime
 from random import randint
-from db import DB
+from examples.db import DB
+
 
 
 class Bot:
@@ -20,8 +22,10 @@ class Bot:
         self.username = username
         self.api = InstagramAPI(username, password)
         if self.api.login():
+            if not os.path.exists('accounts/' + username):
+                os.mkdir('accounts/' + username)
             self.writeLog("Successful Login!")
-            self.db.create_connection("data.db")
+            self.db.create_connection("accounts/" + username + "/data.db")
             self.resolveCopyAccounts(copy)
             self.run()
         else:
@@ -43,13 +47,13 @@ class Bot:
         while True:
 
             # Follow Based on Interest
-            self.writeLog("Getting interest followers..")
             if self.unfollow == False:
+                self.writeLog("Getting interest followers..")
                 interestFollowers = self.api.getTotalFollowers(self.interests[randint(0, len(self.interests) - 1)])
                 randFollowStart = randint(0, len(interestFollowers) - 1)
                 currentFollowIndex = randFollowStart
 
-            for i in range(1, randint(30, 36)):
+            for i in range(1, randint(27, 35)):
                 if self.unfollow == False:
                     if currentFollowIndex + 1 == len(interestFollowers):
                         currentFollowIndex = 0
@@ -84,15 +88,18 @@ class Bot:
     def writeLog(self, line):
         if self.username != '':
             try:
-                file = open('logs/' + self.username + '.txt', 'r')
+                file = open('accounts/' + self.username + '/log.txt', 'r')
             except IOError:
-                file = open('logs/' + self.username + '.txt', 'w')
+                file = open('accounts/' + self.username + '/log.txt', 'w')
 
             file.close()
-            f = open('logs/' + self.username + '.txt', 'a')
+            f = open('accounts/' + self.username + '/log.txt', 'a')
             currentDT = datetime.datetime.now()
             f.write(str(currentDT) + ': ' + line + "\n")
             f.close()
+
+    def getPID(self):
+        return os.getpid()
 
 
             # # FIND A RANDOM FOLLOWER

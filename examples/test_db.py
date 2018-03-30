@@ -1,4 +1,4 @@
-from db import DB
+from examples.db import DB
 
 if __name__ == '__main__':
     db = DB()
