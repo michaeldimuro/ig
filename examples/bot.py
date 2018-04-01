@@ -3,7 +3,7 @@ from InstagramAPI import InstagramAPI
 import time
 import datetime
 from random import randint
-from examples.db import DB
+from db import DB
 
 
 
@@ -27,12 +27,11 @@ class Bot:
             self.writeLog("Successful Login!")
             self.db.create_connection("accounts/" + username + "/data.db")
             self.resolveCopyAccounts(copy)
-            self.run()
         else:
-            self.writeLog("Could not log in to this account.")
+            print("Could not log in to " + self.username)
 
     def resolveCopyAccounts(self, c):
-        for i in range(0, len(c) - 1):
+        for i in range(0, len(c)):
             self.api.searchUsername(c[i])
             self.interests.append(self.api.LastJson['user']['pk'])
 

@@ -1,4 +1,5 @@
 import os
+import signal
 import multiprocessing
 from multiprocessing import Manager
 import datetime
@@ -6,21 +7,23 @@ import time
 from bot import Bot
 from db import DB
 
-# bots = []
-
-def startBot(username, password, copy, botsList):
-    # pid.append(os.getpid())
+def startBot(username, password, copy):
     b = Bot(username, password, copy)
-    botsList.append(b)
+    b.run()
 
 if __name__ == "__main__":
 
-    manager = multiprocessing.Manager()
-    bots = manager.list()
-
     jobs = []
-    db = DB()
-    db.create_connection("data.db")
+
+    p = multiprocessing.Process(target=startBot, args=("blitzmediamarketing", "mikedimuro99", ["icomeup", "icomeup", "icomeup"]))
+    jobs.append(["blitzmediamarketing", p])
+    p.start()
+
+    p = multiprocessing.Process(target=startBot, args=("ijerseywebdesign", "mikedimuro99", ["icomeup", "icomeup", "icomeup"]))
+    jobs.append(["ijerseywebdesign", p])
+    p.start()
+
+    print(jobs)
 
     while True:
         print("Select an Option:\n"
@@ -33,12 +36,12 @@ if __name__ == "__main__":
         inp = raw_input("Selection: ")
 
         if inp == '1':
-            if len(bots) == 0:
+            if len(jobs) == 0:
                 print("\n\nNo accounts have been added.")
             else:
                 print("\n\nActive Accounts:")
-                for i in range(0, len(bots)):
-                    print(str(i) + ": " + bots[i].username + " - PID: " + bots[i].getPID())
+                for i in range(0, len(jobs)):
+                    print(str(i + 1) + ": " + jobs[i][0])
 
             print("\n")
         elif inp == '2':
@@ -51,12 +54,22 @@ if __name__ == "__main__":
                a = raw_input("Copy " + str(i + 1) + ": ")
                copy.append(a)
 
-            p = multiprocessing.Process(target=startBot, args=(username, password, copy, bots))
-            jobs.append(p)
+            p = multiprocessing.Process(target=startBot, args=(username, password, copy,))
+            jobs.append([username, p])
             p.start()
 
         elif inp == '3':
             print("Three")
+        elif inp == '4':
+            userToTerminate = raw_input("User To Remove: ")
+            userToTerminate = int(userToTerminate) - 1
+            if userToTerminate > len(jobs):
+                print("Invalid Selection")
+            else:
+                jobToTerminate = jobs[userToTerminate][1]
+                jobToTerminate.terminate()
+                jobs.remove(jobs[userToTerminate])
+                print("Account has been removed.")
         elif inp == '5':
             exit()
 

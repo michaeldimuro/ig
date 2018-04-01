@@ -7,3 +7,225 @@
 2018-03-30 13:28:23.430557: Followed user: const.divinecustomhomes
 2018-03-30 13:28:26.907046: Followed user: fitmedistribucion
 2018-03-30 13:28:28.344117: Followed user: all.in_fitness
+2018-03-30 15:10:14.631673: Successful Login!
+2018-03-30 15:10:15.838884: Getting interest followers..
+2018-03-30 15:10:16.763029: Followed user: haroldvaldes1
+2018-03-30 15:10:19.428389: Followed user: helsinkiforvisitors
+2018-03-30 15:10:21.071233: Followed user: jmcginty_18
+2018-03-30 15:10:23.526893: Followed user: jbrown101503
+2018-03-30 15:10:25.165296: Followed user: justinsmith4059
+2018-03-30 15:10:28.648922: Followed user: kaordicadesign
+2018-03-30 15:10:31.108108: Followed user: kertmcslert
+2018-03-30 15:10:34.667404: Followed user: kristinerobin95
+2018-03-30 15:10:37.251906: Followed user: kwikbagit
+2018-03-30 15:10:39.810350: Followed user: mokgonyane01
+2018-03-30 15:10:43.625563: Followed user: fairclothmicah
+2018-03-30 15:10:46.264696: Followed user: kinneymisty
+2018-03-30 15:10:48.925087: Followed user: outoo.outoffices
+2018-03-30 15:10:52.612047: Followed user: florepatricia5
+2018-03-30 15:10:54.051209: Followed user: paul.spies.79
+2018-03-30 15:10:56.999387: Followed user: redeem.fit
+2018-03-30 15:10:59.165963: Followed user: rossgc101
+2018-03-30 15:11:01.622939: Followed user: shaiksahbaz73
+2018-03-30 15:11:03.262529: Followed user: shapestudio_17
+2018-03-30 15:11:06.470780: Taking a break for 20 minutes.
+2018-03-30 17:06:20.379607: Getting interest followers..
+2018-03-30 17:06:21.271003: Followed user: morozovsmm
+2018-03-30 17:06:22.880120: Followed user: ai_mamari
+2018-03-30 17:06:24.319280: Followed user: smyr768
+2018-03-30 17:06:27.805332: Followed user: balanceadmire11
+2018-03-30 17:06:31.278993: Followed user: mosknfv.27
+2018-03-30 17:06:34.741628: Followed user: michael_mccune
+2018-03-30 17:06:37.220797: Followed user: aspace4love
+2018-03-30 17:06:39.887061: Followed user: sabaedadaucaea5808
+2018-03-30 17:06:41.318240: Followed user: alphacontractors
+2018-03-30 17:06:45.414007: Followed user: kingbrooksoul
+2018-03-30 17:06:47.054865: Followed user: casadepedracorretoraseguros
+2018-03-30 17:06:49.511662: Followed user: closigma
+2018-03-30 17:06:51.968712: Followed user: cornejacoannandale
+2018-03-30 17:06:53.402768: Followed user: resultsthroughmotivation
+2018-03-30 17:06:56.064004: Followed user: const.divinecustomhomes
+2018-03-30 17:06:58.522462: Followed user: fitmedistribucion
+2018-03-30 17:07:02.005257: Followed user: all.in_fitness
+2018-03-30 17:07:04.666834: Followed user: gus22t
+2018-03-30 17:07:07.533121: Followed user: haroldvaldes1
+2018-03-30 17:07:08.740483: Taking a break for 21 minutes.
+2018-03-30 22:10:49.935323: Getting interest followers..
+2018-03-30 22:10:50.997904: Followed user: kristinerobin95
+2018-03-30 22:10:54.483598: Followed user: kwikbagit
+2018-03-30 22:10:57.145014: Followed user: mokgonyane01
+2018-03-30 22:10:58.578203: Followed user: fairclothmicah
+2018-03-30 22:11:01.241482: Followed user: kinneymisty
+2018-03-30 22:11:02.666258: Followed user: outoo.outoffices
+2018-03-30 22:11:04.108405: Followed user: florepatricia5
+2018-03-30 22:11:07.590269: Followed user: paul.spies.79
+2018-03-30 22:11:12.917081: Followed user: redeem.fit
+2018-03-30 22:11:15.372492: Followed user: rossgc101
+2018-03-30 22:11:19.059239: Followed user: shaiksahbaz73
+2018-03-30 22:11:21.513784: Followed user: shapestudio_17
+2018-03-30 22:11:22.947279: Followed user: juergen.hoeller_buch
+2018-03-30 22:11:24.383636: Followed user: steve1488
+2018-03-30 22:11:26.334003: Followed user: the.hyped.life
+2018-03-30 22:11:27.865776: Followed user: the_luxurious__
+2018-03-30 22:11:29.299186: Followed user: gonzo42083
+2018-03-30 22:11:32.871531: Followed user: time.of.luxury
+2018-03-30 22:11:36.467531: Followed user: morozovsmm
+2018-03-30 22:11:38.670278: Taking a break for 23 minutes.
+2018-03-30 23:53:22.550149: Getting interest followers..
+2018-03-30 23:53:23.372146: Followed user: justinsmith4059
+2018-03-30 23:53:24.972044: Followed user: kaordicadesign
+2018-03-30 23:53:27.413575: Followed user: kertmcslert
+2018-03-30 23:53:28.901650: Followed user: kristinerobin95
+2018-03-30 23:53:30.644500: Followed user: kwikbagit
+2018-03-30 23:53:32.406695: Followed user: mokgonyane01
+2018-03-30 23:53:35.885758: Followed user: fairclothmicah
+2018-03-30 23:53:37.481004: Followed user: kinneymisty
+2018-03-30 23:53:40.312504: Followed user: outoo.outoffices
+2018-03-30 23:53:43.795044: Followed user: florepatricia5
+2018-03-30 23:53:47.546593: Followed user: paul.spies.79
+2018-03-30 23:53:51.098912: Followed user: redeem.fit
+2018-03-30 23:53:53.194930: Followed user: rossgc101
+2018-03-30 23:53:55.302193: Followed user: shaiksahbaz73
+2018-03-30 23:54:00.031962: Followed user: shapestudio_17
+2018-03-30 23:54:01.670676: Followed user: juergen.hoeller_buch
+2018-03-30 23:54:05.564855: Followed user: steve1488
+2018-03-30 23:54:08.205742: Followed user: the.hyped.life
+2018-03-30 23:54:10.895865: Followed user: the_luxurious__
+2018-03-30 23:54:14.203771: Taking a break for 24 minutes.
+2018-03-31 03:24:51.801516: Getting interest followers..
+2018-03-31 03:58:38.058699: Followed user: all.in_fitness
+2018-03-31 03:58:41.939469: Followed user: gus22t
+2018-03-31 03:58:45.631736: Followed user: haroldvaldes1
+2018-03-31 03:58:48.086567: Followed user: helsinkiforvisitors
+2018-03-31 04:05:45.509032: Followed user: jmcginty_18
+2018-03-31 04:05:48.289570: Followed user: jbrown101503
+2018-03-31 04:05:51.154117: Followed user: justinsmith4059
+2018-03-31 04:05:54.847165: Followed user: kaordicadesign
+2018-03-31 04:05:58.319149: Followed user: kertmcslert
+2018-03-31 04:06:02.367001: Followed user: kristinerobin95
+2018-03-31 04:06:07.920838: Followed user: kwikbagit
+2018-03-31 04:06:10.466349: Followed user: mokgonyane01
+2018-03-31 04:06:11.883315: Followed user: fairclothmicah
+2018-03-31 04:06:14.488133: Followed user: kinneymisty
+2018-03-31 04:06:50.617425: Followed user: outoo.outoffices
+2018-03-31 04:06:53.321473: Followed user: florepatricia5
+2018-03-31 04:06:57.012624: Followed user: paul.spies.79
+2018-03-31 04:06:59.518171: Followed user: redeem.fit
+2018-03-31 04:07:03.165345: Followed user: rossgc101
+2018-03-31 04:07:06.035629: Followed user: shaiksahbaz73
+2018-03-31 04:07:08.699007: Followed user: shapestudio_17
+2018-03-31 04:07:10.321621: Followed user: juergen.hoeller_buch
+2018-03-31 04:07:19.367188: Followed user: steve1488
+2018-03-31 04:07:23.221243: Followed user: the.hyped.life
+2018-03-31 04:07:26.709274: Followed user: the_luxurious__
+2018-03-31 09:46:43.840961: Followed user: gonzo42083
+2018-03-31 09:46:46.618624: Followed user: time.of.luxury
+2018-03-31 09:46:50.740508: Followed user: morozovsmm
+2018-03-31 11:15:14.414772: Followed user: ai_mamari
+2018-03-31 11:15:16.846717: Followed user: smyr768
+2018-03-31 11:15:22.273003: Followed user: balanceadmire11
+2018-03-31 11:15:23.275627: Taking a break for 22 minutes.
+2018-03-31 18:55:19.355048: Getting interest followers..
+2018-03-31 18:55:20.423539: Followed user: haroldvaldes1
+2018-03-31 18:55:22.885714: Followed user: helsinkiforvisitors
+2018-03-31 18:55:24.426768: Followed user: jmcginty_18
+2018-03-31 18:55:28.009364: Followed user: jbrown101503
+2018-03-31 18:55:31.494739: Followed user: justinsmith4059
+2018-03-31 18:55:34.150327: Followed user: kaordicadesign
+2018-03-31 18:55:36.576628: Followed user: kertmcslert
+2018-03-31 18:55:39.264079: Followed user: kristinerobin95
+2018-03-31 18:55:42.808457: Followed user: kwikbagit
+2018-03-31 18:55:45.413487: Followed user: mokgonyane01
+2018-03-31 18:55:46.823285: Followed user: fairclothmicah
+2018-03-31 18:55:49.506003: Followed user: kinneymisty
+2018-03-31 18:56:09.297554: Followed user: outoo.outoffices
+2018-03-31 18:56:12.857709: Followed user: florepatricia5
+2018-03-31 18:56:16.310546: Followed user: paul.spies.79
+2018-03-31 18:56:19.001182: Followed user: redeem.fit
+2018-03-31 18:56:20.548082: Followed user: rossgc101
+2018-03-31 18:56:23.057180: Followed user: shaiksahbaz73
+2018-03-31 18:56:33.538659: Followed user: shapestudio_17
+2018-03-31 19:08:27.260331: Followed user: juergen.hoeller_buch
+2018-03-31 19:29:05.288647: Successful Login!
+2018-03-31 19:30:29.329864: Successful Login!
+2018-03-31 19:32:26.967018: Successful Login!
+2018-03-31 19:34:39.095131: Successful Login!
+2018-03-31 19:34:40.075338: Getting interest followers..
+2018-03-31 19:35:20.646192: Successful Login!
+2018-03-31 19:35:21.501917: Getting interest followers..
+2018-03-31 19:41:49.487628: Successful Login!
+2018-03-31 19:41:50.375348: Getting interest followers..
+2018-03-31 19:43:46.226058: Successful Login!
+2018-03-31 19:43:47.287238: Getting interest followers..
+2018-03-31 19:47:52.281200: Successful Login!
+2018-03-31 19:47:53.149361: Getting interest followers..
+2018-03-31 19:49:18.936225: Successful Login!
+2018-03-31 19:49:19.781719: Getting interest followers..
+2018-03-31 19:51:14.977044: Successful Login!
+2018-03-31 19:51:16.063236: Getting interest followers..
+2018-03-31 19:52:41.215234: Successful Login!
+2018-03-31 19:52:42.225473: Getting interest followers..
+2018-03-31 19:59:17.865307: Successful Login!
+2018-03-31 19:59:18.929813: Getting interest followers..
+2018-03-31 20:00:05.994311: Successful Login!
+2018-03-31 20:00:07.096153: Getting interest followers..
+2018-03-31 20:00:54.089715: Followed user: r5.1s
+2018-03-31 20:01:00.634527: Followed user: micah_the_greatest
+2018-03-31 20:01:03.389622: Followed user: brandeng7
+2018-03-31 20:01:06.177029: Followed user: massimo666king
+2018-03-31 20:01:15.426759: Successful Login!
+2018-03-31 20:01:16.475499: Getting interest followers..
+2018-03-31 20:02:38.364502: Successful Login!
+2018-03-31 20:02:39.534009: Getting interest followers..
+2018-03-31 20:03:20.171094: Successful Login!
+2018-03-31 20:04:12.575523: Successful Login!
+2018-03-31 20:09:20.136477: Successful Login!
+2018-03-31 20:13:44.901884: Successful Login!
+2018-03-31 20:15:37.305016: Successful Login!
+2018-03-31 20:15:38.294675: Getting interest followers..
+2018-03-31 20:16:12.443987: Followed user: mikaylaat
+2018-03-31 20:16:16.939030: Followed user: trevorrob72
+2018-03-31 20:16:19.601311: Followed user: smit_n_wessun
+2018-03-31 20:16:23.492808: Followed user: mjantiques
+2018-03-31 20:16:27.179274: Followed user: wants_to_be_dauntless
+2018-03-31 20:16:29.011000: Followed user: 370infidel
+2018-03-31 20:16:31.482385: Followed user: ha_inyourdreams
+2018-03-31 20:16:33.323498: Followed user: christophersalvo
+2018-03-31 20:16:35.371275: Followed user: allenspad
+2018-03-31 20:16:39.276897: Followed user: wyboii
+2018-03-31 20:16:40.921310: Followed user: jules_19
+2018-03-31 20:16:43.564471: Followed user: breezysiri17
+2018-03-31 20:16:46.816231: Followed user: rikmantallguy
+2018-03-31 20:16:50.688853: Followed user: erica_dempsey1997
+2018-03-31 20:16:54.418981: Followed user: brittaneereneigh
+2018-03-31 20:16:56.877403: Followed user: mr.colgate
+2018-03-31 20:16:59.740632: Followed user: tear_of_world
+2018-03-31 20:17:03.427909: Followed user: juansilva2424
+2018-03-31 20:17:05.358207: Followed user: wssertro
+2018-03-31 20:17:09.369894: Followed user: arsauce_
+2018-03-31 20:17:12.543281: Followed user: chrisaria10
+2018-03-31 20:17:15.512394: Followed user: rahilpatel46
+2018-03-31 20:17:18.380453: Followed user: kendonbro
+2018-03-31 20:17:22.270281: Followed user: nxss79
+2018-03-31 20:17:24.264268: Followed user: vdistressed
+2018-03-31 20:17:27.602952: Followed user: shahram_z
+2018-03-31 20:17:29.234912: Followed user: alves_melo
+2018-03-31 20:17:32.099847: Followed user: luisaguiar904
+2018-03-31 20:17:34.946672: Followed user: bbjmart
+2018-03-31 20:17:36.817980: Followed user: m_micci92
+2018-03-31 20:17:40.495054: Followed user: coreyfredtravis
+2018-03-31 20:17:41.496697: Taking a break for 23 minutes.
+2018-03-31 20:19:57.786691: Successful Login!
+2018-03-31 20:19:58.581273: Getting interest followers..
+2018-03-31 20:20:28.908108: Successful Login!
+2018-03-31 20:20:30.135352: Getting interest followers..
+2018-03-31 20:21:05.500897: Followed user: bldo11
+2018-03-31 20:21:07.165871: Followed user: tapasudana
+2018-03-31 20:21:08.983832: Followed user: stella_francescoanimallover
+2018-03-31 20:21:11.857425: Followed user: pizzoloso
+2018-03-31 20:21:13.899282: Followed user: hello384274
+2018-03-31 20:21:17.783972: Followed user: spiritualsolutionsbygrace
+2018-03-31 20:22:46.259978: Successful Login!
+2018-03-31 20:22:47.487710: Getting interest followers..
+2018-03-31 20:23:15.543269: Successful Login!
+2018-03-31 20:23:16.869726: Getting interest followers..
