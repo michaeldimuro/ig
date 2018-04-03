@@ -78,15 +78,16 @@ class Bot:
                     currentFollowIndex = currentFollowIndex + 1
                     time.sleep(randint(1, 3))
                 else:
-                    self.writeLog("Unfollowing some users..")
-                    targetUnfollow = self.botFollowed[len(self.botFollowed) - 1]
-                    if not self.api.unfollow(targetUnfollow):
-                        break
-                    self.db.remove_followed(self.username, targetUnfollow)
-                    self.botFollowed.pop()
-                    if len(self.botFollowed) <= 250 and not forceUnfollow:
-                        self.botFollowed.reverse()
-                        self.unfollow = False
+                    if len(self.botFollowed) > 0:
+                        self.writeLog("Unfollowing some users..")
+                        targetUnfollow = self.botFollowed[len(self.botFollowed) - 1]
+                        if not self.api.unfollow(targetUnfollow):
+                            break
+                        self.db.remove_followed(self.username, targetUnfollow)
+                        self.botFollowed.pop()
+                        if len(self.botFollowed) <= 250 and not forceUnfollow:
+                            self.botFollowed.reverse()
+                            self.unfollow = False
 
 
             if not self.unfollow and len(self.botFollowed) >= 500:
