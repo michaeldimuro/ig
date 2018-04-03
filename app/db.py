@@ -41,19 +41,16 @@ class DB:
     def expired(self):
         cur = self.conn.cursor()
         expiredQuery = cur.execute("SELECT * FROM prefs")
-        data = expiredQuery.fetchone()
-        if data == 0:
-            self.set_prefs()
-            self.expired()
-        else:
-            result = data[1]
-            return result
+        row = expiredQuery.fetchone()
+        result = row[1]
+        return result
 
 
 
     def create_tables(self):
         self.conn.execute('''CREATE TABLE if not exists prefs (activated datetime, expires datetime, setting int DEFAULT 0)''')
         self.conn.commit()
+        self.set_prefs()
         # self.conn.execute('''CREATE TABLE if not exists copy (user text, followed text)''')
         # self.conn.commit()
         self.conn.execute('''CREATE TABLE if not exists followed (user text, followed text)''')
