@@ -12,7 +12,6 @@ class DB:
             self.conn = sqlite3.connect(db_file)
             self.conn.text_factory = str
             self.create_tables()
-            print(sqlite3.version)
         except Error as e:
             print(e)
 
