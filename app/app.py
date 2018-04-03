@@ -39,7 +39,7 @@ if __name__ == "__main__":
                         if os.path.exists('accounts/' + currentJob[0]):
                             db.create_connection("accounts/" + currentJob[0] + "/data.db")
                             expires = datetime.strptime(db.expired(), "%Y-%m-%d %H:%M:%S.%f")
-                            if expires >= datetime.now():
+                            if expires <= datetime.now():
                                 status = "DEAD"
                             else:
                                 status = "DEAD | NOT EXPIRED - RELOAD ACCOUNT"

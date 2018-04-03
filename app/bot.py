@@ -45,7 +45,7 @@ class Bot:
 
         expires = datetime.strptime(self.db.expired(), "%Y-%m-%d %H:%M:%S.%f")
 
-        if expires >= datetime.now():
+        if expires <= datetime.now():
             self.writeLog("Subscription has expired. Unfollowing all users and cleaning up..")
             forceUnfollow = True
 
