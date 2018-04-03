@@ -1,0 +1,321 @@
+2018-03-31 19:42:12.812195: Successful Login!
+2018-03-31 19:42:13.655008: Getting interest followers..
+2018-03-31 19:44:09.700172: Successful Login!
+2018-03-31 19:44:10.604725: Getting interest followers..
+2018-03-31 19:47:56.991955: Successful Login!
+2018-03-31 19:47:57.833552: Getting interest followers..
+2018-03-31 19:49:22.746711: Successful Login!
+2018-03-31 19:49:23.532942: Getting interest followers..
+2018-03-31 19:51:19.326699: Successful Login!
+2018-03-31 19:51:20.152895: Getting interest followers..
+2018-03-31 19:52:45.682248: Successful Login!
+2018-03-31 19:52:46.475441: Getting interest followers..
+2018-03-31 20:03:24.759946: Successful Login!
+2018-03-31 20:09:25.041393: Successful Login!
+2018-03-31 20:15:38.269988: Successful Login!
+2018-03-31 20:15:39.048091: Getting interest followers..
+2018-03-31 20:16:09.442171: Followed user: britt_digi_
+2018-03-31 20:16:12.443969: Followed user: spacekadets
+2018-03-31 20:16:14.313093: Followed user: purefoodanddrink
+2018-03-31 20:16:17.963790: Followed user: drjoeyamato
+2018-03-31 20:16:21.649971: Followed user: project_wes
+2018-03-31 20:16:23.492874: Followed user: elegantpartydesigns
+2018-03-31 20:16:25.136028: Followed user: chalktalk101
+2018-03-31 20:16:26.974854: Followed user: jwflynn
+2018-03-31 20:16:30.035487: Followed user: tatyane_.moreira
+2018-03-31 20:16:32.785941: Followed user: midori_aujanae
+2018-03-31 20:16:37.014820: Followed user: dbrad_23
+2018-03-31 20:16:38.853511: Followed user: zharkinbek.adelia
+2018-03-31 20:16:40.901864: Followed user: bsgo.2028
+2018-03-31 20:16:43.564531: Followed user: cassi_926
+2018-03-31 20:16:45.584048: Followed user: fernando_perez_bahena
+2018-03-31 20:16:47.456762: Followed user: dan__wilks
+2018-03-31 20:16:50.572890: Followed user: robyn519
+2018-03-31 20:16:54.419038: Followed user: shortij15
+2018-03-31 20:16:57.080237: Followed user: gibsontsc90
+2018-03-31 20:17:00.264725: Followed user: _will44
+2018-03-31 20:17:02.931595: Followed user: voyeurized
+2018-03-31 20:17:05.065727: Followed user: shayanb383
+2018-03-31 20:17:07.797863: Followed user: fayazbnnmallan
+2018-03-31 20:17:11.525207: Followed user: ashlyn_nee
+2018-03-31 20:17:13.676413: Followed user: twisted09_soul666
+2018-03-31 20:17:15.512448: Followed user: arie_renee17
+2018-03-31 20:17:17.355458: Followed user: duartedog93
+2018-03-31 20:17:21.246320: Followed user: robtorrance7196
+2018-03-31 20:17:25.144048: Followed user: austindavis232
+2018-03-31 20:17:27.145841: Taking a break for 22 minutes.
+2018-03-31 20:19:57.626625: Successful Login!
+2018-03-31 20:19:58.414487: Getting interest followers..
+2018-03-31 20:20:28.896766: Successful Login!
+2018-03-31 20:20:30.486722: Getting interest followers..
+2018-03-31 20:22:46.260878: Successful Login!
+2018-03-31 20:22:47.335179: Getting interest followers..
+2018-03-31 20:23:15.543772: Successful Login!
+2018-03-31 20:23:16.800040: Getting interest followers..
+2018-04-03 02:05:10.075253: Successful Login!
+2018-04-03 02:05:11.013669: Getting interest followers..
+2018-04-03 02:31:06 EDT-0400: Successful Login!
+2018-04-03 02:31:07 EDT-0400: Getting interest followers..
+2018-04-03 02:32:51: Successful Login!
+2018-04-03 02:32:52: Getting interest followers..
+2018-04-03 02:33:27: Followed user: _faso_
+03-04-2018 02:35:35: Successful Login!
+03-04-2018 02:36:10: Successful Login!
+03-04-2018 02:36:11: Getting interest followers..
+03-04-2018 03:01:47: Successful Login!
+03-04-2018 03:01:48: Getting interest followers..
+03-04-2018 03:02:19: Followed user: adriannac98
+03-04-2018 03:02:23: Followed user: r0cioluna
+03-04-2018 03:02:26: Followed user: samaratay
+03-04-2018 03:02:28: Followed user: passion2inspire95
+03-04-2018 03:02:31: Followed user: queen_b_0603
+03-04-2018 03:02:33: Followed user: torontoagent1
+03-04-2018 03:02:36: Followed user: fitlassontour
+03-04-2018 03:02:40: Followed user: johnniesalami
+03-04-2018 03:02:44: Followed user: poopcronman
+03-04-2018 03:02:46: Followed user: kimberly_creligo
+03-04-2018 03:02:51: Followed user: zackregels
+03-04-2018 03:02:54: Followed user: bri_thrasher
+03-04-2018 03:02:56: Followed user: matt.zingaro
+03-04-2018 03:03:01: Followed user: oshuadonea
+03-04-2018 03:03:04: Followed user: brandonhipsley
+03-04-2018 03:03:09: Followed user: kidcharbs
+03-04-2018 03:03:12: Followed user: bigbadben1010
+03-04-2018 03:03:15: Followed user: im_obeytrey
+03-04-2018 03:03:20: Followed user: thatkiddre15
+03-04-2018 03:03:22: Followed user: jbenne24
+03-04-2018 03:03:26: Followed user: big.hogie
+03-04-2018 03:03:30: Followed user: kristianmusic
+03-04-2018 03:03:33: Followed user: estela.smith
+03-04-2018 03:03:36: Followed user: court_brooks
+03-04-2018 03:03:38: Followed user: laurenschwartz7
+03-04-2018 03:03:39: Followed user: kbj_5
+03-04-2018 03:03:43: Followed user: blonde_lobato
+03-04-2018 03:03:46: Followed user: mjw.photographyy
+03-04-2018 03:03:50: Followed user: 904.jacob
+03-04-2018 03:03:52: Followed user: cort.gomes
+03-04-2018 03:03:53: Taking a break for 21 minutes.
+03-04-2018 03:06:37: Successful Login!
+03-04-2018 03:06:38: Getting interest followers..
+03-04-2018 03:07:11: Followed user: maxwell_theegreat
+03-04-2018 03:07:13: Followed user: luvmyfloridalife
+03-04-2018 03:07:17: Followed user: khan_atiya_23
+03-04-2018 03:07:20: Followed user: vitussunday
+03-04-2018 03:07:23: Followed user: l.grundmane
+03-04-2018 03:07:27: Followed user: masumshohag21
+03-04-2018 03:07:31: Followed user: kingsleyobiagwu
+03-04-2018 03:07:33: Followed user: davidalexandrenunes
+03-04-2018 03:07:37: Followed user: aggrey.kweku
+03-04-2018 03:07:41: Followed user: we_love_gym_hero
+03-04-2018 03:07:43: Followed user: 11lutz4
+03-04-2018 03:07:46: Followed user: _monique_.14
+03-04-2018 03:07:48: Followed user: mgwast
+03-04-2018 03:07:50: Followed user: sfm_cute_toychica
+03-04-2018 03:07:52: Followed user: riechman
+03-04-2018 03:07:54: Followed user: theturboedone
+03-04-2018 03:07:58: Followed user: mohdanas.aa75
+03-04-2018 03:08:01: Followed user: ben_hertaus
+03-04-2018 03:08:05: Followed user: soulimane_meziane
+03-04-2018 03:08:08: Followed user: the_64_bit_king
+03-04-2018 03:08:12: Followed user: rokiee06
+03-04-2018 03:08:16: Followed user: ruslankonysbek
+03-04-2018 03:08:19: Followed user: med.barka.3
+03-04-2018 03:08:22: Followed user: becomebetteryou
+03-04-2018 03:08:24: Followed user: livin_lifebitchhh
+03-04-2018 03:08:28: Followed user: pancho78_
+03-04-2018 03:08:30: Followed user: 3_b_doo
+03-04-2018 03:08:34: Followed user: ejioforcollins
+03-04-2018 03:08:36: Followed user: dmmcgarry
+03-04-2018 03:08:40: Followed user: mahmoudaldmrany
+03-04-2018 03:11:48: Successful Login!
+03-04-2018 03:11:49: Getting interest followers..
+03-04-2018 03:12:20: Followed user: kristiankaaa
+03-04-2018 03:12:24: Followed user: stojjy
+03-04-2018 03:12:28: Followed user: silly_misfit
+03-04-2018 03:12:30: Followed user: drinkingtherightwater
+03-04-2018 03:12:32: Followed user: slickrick103
+03-04-2018 03:12:35: Followed user: t_rell95
+03-04-2018 03:12:37: Followed user: danger_caged
+03-04-2018 03:12:39: Followed user: coastalholistics
+03-04-2018 03:12:42: Followed user: glambarbridal
+03-04-2018 03:12:45: Followed user: nasar357_ccclvii
+03-04-2018 03:12:49: Followed user: ellesunkara
+03-04-2018 03:12:53: Followed user: hybrid_elite_performance
+03-04-2018 03:12:55: Followed user: isabel_3800
+03-04-2018 03:12:57: Followed user: lehornbeck
+03-04-2018 03:13:00: Followed user: mwlindasylindos
+03-04-2018 03:13:03: Followed user: skha_14
+03-04-2018 03:13:05: Followed user: qwertyparty1
+03-04-2018 03:13:07: Followed user: lbeworldwide
+03-04-2018 03:13:09: Followed user: focusfury
+03-04-2018 03:13:13: Followed user: leanne_mcfadyen
+03-04-2018 03:13:17: Followed user: gamboa_fitness
+03-04-2018 03:13:21: Followed user: teezters
+03-04-2018 03:13:23: Followed user: reallyfebarbie_
+03-04-2018 03:13:27: Followed user: muriellemillien
+03-04-2018 03:13:33: Followed user: kevin_m_77
+03-04-2018 03:13:35: Followed user: farid6977
+03-04-2018 03:13:39: Followed user: michellesuppes10
+03-04-2018 03:13:41: Followed user: emerald_kp
+03-04-2018 03:13:43: Followed user: trina_7262
+03-04-2018 03:13:45: Followed user: jocthomas
+03-04-2018 03:13:48: Followed user: tisunderwear
+03-04-2018 03:13:51: Followed user: ky_fit
+03-04-2018 03:13:54: Followed user: changoodie
+03-04-2018 03:13:58: Followed user: wwttsghjyjj
+03-04-2018 03:14:01: Taking a break for 22 minutes 54 seconds.
+03-04-2018 03:33:15: Successful Login!
+03-04-2018 03:35:52: Successful Login!
+03-04-2018 03:35:53: Getting interest followers..
+03-04-2018 03:36:27: Followed user: gunes3296
+03-04-2018 03:36:32: Followed user: abbagwale
+03-04-2018 03:36:34: Followed user: enderyoutube666
+03-04-2018 03:36:38: Followed user: z4newhouse
+03-04-2018 03:36:40: Followed user: paolinopezzano
+03-04-2018 03:36:43: Followed user: ahmetdemirart
+03-04-2018 03:36:47: Followed user: daniels_your_credit_guru
+03-04-2018 03:36:50: Followed user: kellie2050
+03-04-2018 03:36:54: Followed user: taffytaffster
+03-04-2018 03:37:36: Successful Login!
+03-04-2018 03:37:37: Getting interest followers..
+03-04-2018 03:38:06: Followed user: arifenun1986
+03-04-2018 03:38:08: Followed user: mi.miepreperud
+03-04-2018 03:38:10: Followed user: blammunaza1982
+03-04-2018 03:38:14: Followed user: jael__jeron
+03-04-2018 03:38:17: Followed user: timudeterf1984
+03-04-2018 03:38:20: Followed user: demecia_tolentino
+03-04-2018 03:38:23: Followed user: yvetpatityvet
+03-04-2018 03:38:26: Followed user: babosweidia1974
+03-04-2018 03:38:30: Followed user: blazchaispelet1983
+03-04-2018 03:38:33: Followed user: ecniwellras1971
+03-04-2018 03:38:37: Followed user: cortneybarrios
+03-04-2018 03:38:41: Followed user: terperemyr.terp
+03-04-2018 03:38:43: Followed user: riephalipke.pke
+03-04-2018 03:38:45: Followed user: shaneka_reilly
+03-04-2018 03:38:48: Followed user: wawan_agler
+03-04-2018 03:38:50: Followed user: graduatcrypmil_gr
+03-04-2018 03:38:53: Followed user: ciohatacal1989
+03-04-2018 03:38:57: Followed user: _ramimacauley
+03-04-2018 03:38:59: Followed user: maxwellsagan
+03-04-2018 03:39:02: Followed user: kemal_bees
+03-04-2018 03:39:05: Followed user: aptroubditoo1979
+03-04-2018 03:39:08: Followed user: corinn__vandergrift
+03-04-2018 03:39:11: Followed user: kne_devaty
+03-04-2018 03:39:15: Followed user: disp_dispganino
+03-04-2018 03:39:17: Followed user: marcelle.bazemore
+03-04-2018 03:39:20: Followed user: suppcogamas1978
+03-04-2018 03:39:23: Followed user: francis_pleitez
+03-04-2018 03:39:26: Followed user: _altagraciasarita_
+03-04-2018 03:39:27: Followed user: taistaisnowitman
+03-04-2018 03:39:29: Followed user: netidure.dure
+03-04-2018 03:39:32: Followed user: qui_quitepdira
+03-04-2018 03:39:36: Followed user: fracbackwrisnin1976
+03-04-2018 03:39:38: Followed user: didibacksisu
+03-04-2018 03:39:40: Taking a break for 21 minutes 52 seconds.
+03-04-2018 03:49:23: Successful Login!
+03-04-2018 03:49:24: Getting interest followers..
+03-04-2018 03:50:20: Followed user: kiera.tewksbury
+03-04-2018 03:50:23: Followed user: morgzmarie_
+03-04-2018 03:50:25: Followed user: doseofgreene
+03-04-2018 03:50:28: Followed user: spencer_bera
+03-04-2018 03:50:32: Followed user: silentscream_em
+03-04-2018 03:50:36: Followed user: khphoto_
+03-04-2018 03:50:39: Followed user: alinguito
+03-04-2018 03:50:43: Followed user: jayjay0498
+03-04-2018 03:50:46: Followed user: taylorbagwellfitness
+03-04-2018 03:50:47: Followed user: alley_mairon26
+03-04-2018 03:50:49: Followed user: iittssnick
+03-04-2018 03:50:53: Followed user: millionaire_networking
+03-04-2018 03:50:57: Followed user: ssm_josh280
+03-04-2018 03:51:01: Followed user: christalia8
+03-04-2018 03:51:05: Followed user: bwishart98
+03-04-2018 03:51:08: Followed user: a.amnotte
+03-04-2018 03:51:12: Followed user: live.pray.dance
+03-04-2018 03:51:16: Followed user: yug_ghadi
+03-04-2018 03:51:20: Followed user: over_b
+03-04-2018 03:51:23: Followed user: klaudiarushi
+03-04-2018 03:51:28: Followed user: alyssanbrand
+03-04-2018 03:51:32: Followed user: daofficialyoungn_tj
+03-04-2018 03:51:34: Followed user: ogjako
+03-04-2018 03:51:37: Followed user: blacaruba
+03-04-2018 03:51:40: Followed user: karlaxx
+03-04-2018 03:51:44: Followed user: christianmarin_official
+03-04-2018 03:51:47: Followed user: rjmartinez_2.0
+03-04-2018 03:51:50: Followed user: michendrickson
+03-04-2018 03:51:53: Followed user: aliiaaxx
+03-04-2018 03:51:55: Followed user: makaykay17
+03-04-2018 03:51:57: Followed user: hoherilala
+03-04-2018 03:51:59: Taking a break for 21 minutes 47 seconds.
+03-04-2018 04:04:11: Successful Login!
+03-04-2018 04:06:51: Successful Login!
+03-04-2018 04:06:52: Subscription has expired. Unfollowing all users and cleaning up..
+03-04-2018 04:06:52: Unfollowing some users..
+03-04-2018 04:06:53: Unfollowing some users..
+03-04-2018 04:06:54: Unfollowing some users..
+03-04-2018 04:06:54: Unfollowing some users..
+03-04-2018 04:06:55: Unfollowing some users..
+03-04-2018 04:06:56: Unfollowing some users..
+03-04-2018 04:06:56: Unfollowing some users..
+03-04-2018 04:06:57: Unfollowing some users..
+03-04-2018 04:06:58: Unfollowing some users..
+03-04-2018 04:06:58: Unfollowing some users..
+03-04-2018 04:07:00: Unfollowing some users..
+03-04-2018 04:07:01: Unfollowing some users..
+03-04-2018 04:07:02: Unfollowing some users..
+03-04-2018 04:07:02: Unfollowing some users..
+03-04-2018 04:07:03: Unfollowing some users..
+03-04-2018 04:07:03: Unfollowing some users..
+03-04-2018 04:07:04: Unfollowing some users..
+03-04-2018 04:07:06: Unfollowing some users..
+03-04-2018 04:07:07: Unfollowing some users..
+03-04-2018 04:07:08: Unfollowing some users..
+03-04-2018 04:07:08: Unfollowing some users..
+03-04-2018 04:07:08: Unfollowing some users..
+03-04-2018 04:07:09: Unfollowing some users..
+03-04-2018 04:07:10: Unfollowing some users..
+03-04-2018 04:07:11: Unfollowing some users..
+03-04-2018 04:07:11: Unfollowing some users..
+03-04-2018 04:07:12: Unfollowing some users..
+03-04-2018 04:07:12: Unfollowing some users..
+03-04-2018 04:07:13: Unfollowing some users..
+03-04-2018 04:07:14: Unfollowing some users..
+03-04-2018 04:07:14: Unfollowing some users..
+03-04-2018 04:07:15: Unfollowing some users..
+03-04-2018 04:07:16: Taking a break for 21 minutes 6 seconds.
+03-04-2018 04:08:31: Successful Login!
+03-04-2018 04:08:32: Subscription has expired. Unfollowing all users and cleaning up..
+03-04-2018 04:08:32: Unfollowing some users..
+03-04-2018 04:08:33: Unfollowing some users..
+03-04-2018 04:08:34: Unfollowing some users..
+03-04-2018 04:08:34: Unfollowing some users..
+03-04-2018 04:08:35: Unfollowing some users..
+03-04-2018 04:08:36: Unfollowing some users..
+03-04-2018 04:08:36: Unfollowing some users..
+03-04-2018 04:08:37: Unfollowing some users..
+03-04-2018 04:08:38: Unfollowing some users..
+03-04-2018 04:08:39: Unfollowing some users..
+03-04-2018 04:08:39: Unfollowing some users..
+03-04-2018 04:08:40: Unfollowing some users..
+03-04-2018 04:08:41: Unfollowing some users..
+03-04-2018 04:08:41: Unfollowing some users..
+03-04-2018 04:08:42: Unfollowing some users..
+03-04-2018 04:08:42: Unfollowing some users..
+03-04-2018 04:08:43: Unfollowing some users..
+03-04-2018 04:08:44: Unfollowing some users..
+03-04-2018 04:08:44: Unfollowing some users..
+03-04-2018 04:08:45: Unfollowing some users..
+03-04-2018 04:08:45: Unfollowing some users..
+03-04-2018 04:08:46: Unfollowing some users..
+03-04-2018 04:08:47: Unfollowing some users..
+03-04-2018 04:08:47: Unfollowing some users..
+03-04-2018 04:08:48: Unfollowing some users..
+03-04-2018 04:08:48: Unfollowing some users..
+03-04-2018 04:08:49: Unfollowing some users..
+03-04-2018 04:08:49: Unfollowing some users..
+03-04-2018 04:08:50: Unfollowing some users..
+03-04-2018 04:08:51: Unfollowing some users..
+03-04-2018 04:08:51: Unfollowing some users..
+03-04-2018 04:08:52: Unfollowing some users..
+03-04-2018 04:08:52: Unfollowing some users..
+03-04-2018 04:08:53: Unfollowing some users..
+03-04-2018 04:08:53: Taking a break for 22 minutes 35 seconds.
