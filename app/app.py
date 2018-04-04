@@ -34,11 +34,13 @@ if __name__ == "__main__":
                     if currentJob[1].is_alive():
                         db.create_connection("accounts/" + currentJob[0] + "/data.db")
                         expires = db.expired()
+                        db.close()
                         status = "ACTIVE (Expires " + str(expires) + ")"
                     else:
                         if os.path.exists('accounts/' + currentJob[0]):
                             db.create_connection("accounts/" + currentJob[0] + "/data.db")
                             expires = datetime.strptime(db.expired(), "%Y-%m-%d %H:%M:%S.%f")
+                            db.close()
                             if expires <= datetime.now():
                                 status = "DEAD"
                             else:

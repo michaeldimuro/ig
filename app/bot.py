@@ -26,10 +26,14 @@ class Bot:
                 os.mkdir('accounts/' + username)
             self.writeLog("Successful Login!")
             self.db.create_connection("accounts/" + username + "/data.db")
+            self.db.close()
             self.resolveCopyAccounts(copy)
         else:
             print("\nCould not log in to " + self.username + "\n")
             exit()
+
+    def connectDB(self):
+        self.db.create_connection("accounts/" + self.username + "/data.db")
 
     def resolveCopyAccounts(self, c):
         for i in range(0, len(c)):
@@ -43,20 +47,23 @@ class Bot:
 
         forceUnfollow = False
 
+        self.connectDB()
         expires = datetime.strptime(self.db.expired(), "%Y-%m-%d %H:%M:%S.%f")
-
-        if expires <= datetime.now():
-            self.writeLog("Subscription has expired. Unfollowing all users and cleaning up..")
-            forceUnfollow = True
-
+        self.db.close()
 
         if len(self.botFollowed) == 0:
+            self.connectDB()
             self.botFollowed = self.db.bot_followed(self.username)
+            self.db.close()
 
         self.myFollowers = self.api.getTotalSelfFollowers()
 
         #likes = 0
         while True:
+
+            if expires <= datetime.now():
+                self.writeLog("Subscription has expired. Unfollowing all users and cleaning up..")
+                forceUnfollow = True
 
             # Follow Based on Interest
             if not self.unfollow and not forceUnfollow:
@@ -73,7 +80,9 @@ class Bot:
                     if not self.api.follow(targetFollow['pk']):
                         break
                     self.botFollowed.append(targetFollow['pk'])
+                    self.connectDB()
                     self.db.add_follow(self.username, targetFollow['pk'])
+                    self.db.close()
                     self.writeLog("Followed user: " + str(targetFollow['username']))
                     currentFollowIndex = currentFollowIndex + 1
                     time.sleep(randint(1, 3))
@@ -83,7 +92,9 @@ class Bot:
                         targetUnfollow = self.botFollowed[len(self.botFollowed) - 1]
                         if not self.api.unfollow(targetUnfollow):
                             break
+                        self.connectDB()
                         self.db.remove_followed(self.username, targetUnfollow)
+                        self.db.close()
                         self.botFollowed.pop()
                         if len(self.botFollowed) <= 250 and not forceUnfollow:
                             self.botFollowed.reverse()

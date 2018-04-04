@@ -54,3 +54,6 @@ class DB:
         # self.conn.commit()
         self.conn.execute('''CREATE TABLE if not exists followed (user text, followed text)''')
         self.conn.commit()
+
+    def close(self):
+        self.conn.close()
