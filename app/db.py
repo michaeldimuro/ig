@@ -21,6 +21,7 @@ class DB:
 
     def remove_followed(self, user, followed):
         self.conn.execute("DELETE FROM followed WHERE user=? AND followed=?", (user, followed))
+        self.conn.commit()
 
 
     def bot_followed(self, user):

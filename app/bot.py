@@ -55,6 +55,7 @@ class Bot:
             self.connectDB()
             self.botFollowed = self.db.bot_followed(self.username)
             self.db.close()
+            self.checkRelationships()
 
         self.myFollowers = self.api.getTotalSelfFollowers()
 
@@ -91,6 +92,7 @@ class Bot:
                         self.writeLog("Unfollowing some users..")
                         targetUnfollow = self.botFollowed[len(self.botFollowed) - 1]
                         if not self.api.unfollow(targetUnfollow):
+                            self.checkRelationships()
                             break
                         self.connectDB()
                         self.db.remove_followed(self.username, targetUnfollow)
@@ -114,6 +116,43 @@ class Bot:
             sleepTimeExtraSecs = sleepTime % 60
             self.writeLog("Taking a break for " + str(sleepTimeInMins) + " minutes " + str(sleepTimeExtraSecs) + " seconds.")
             time.sleep(sleepTime)
+
+    def checkRelationships(self):
+        following = self.api.getTotalSelfFollowings()
+        for i in range(0, len(self.botFollowed)):
+            if self.botFollowed[i] not in following:
+                self.connectDB()
+                self.db.remove_followed(str(self.username), str(self.botFollowed[i]))
+                self.db.close()
+
+        self.connectDB()
+        self.botFollowed = self.db.bot_followed(self.username)
+        self.db.close()
+
+
+
+        # print("Checking relationships")
+        # finalList = []
+        #
+        # self.db.create_connection("accounts/" + self.username + "/data.db")
+        # databaseList = self.db.bot_followed(self.username)
+        # self.db.close()
+        #
+        # following = self.api.getTotalSelfFollowings()
+        #
+        # for i in range(0, len(databaseList)):
+        #     if databaseList[i] in following:
+        #         finalList.append(databaseList[i])
+        #         print("Still following " + str(databaseList[i]))
+        #     else:
+        #         print("No longer following: " + str(databaseList[i]))
+        #         if databaseList[i] in self.botFollowed:
+        #             self.botFollowed.remove(databaseList[i])
+        #
+        #
+        #
+        # return finalList
+
 
     def writeLog(self, line):
         if self.username != '':
