@@ -34,7 +34,6 @@ class Bot:
         for i in range(0, len(c)):
             self.api.searchUsername(c[i])
             try:
-                print(str(self.api.LastJson['user']['pk']))
                 copyAccountID = self.api.LastJson['user']['pk']
                 self.writeLog("Getting interest followers from " + str(c[i]))
                 copyFollowers = self.api.getTotalFollowers(copyAccountID)
