@@ -13,6 +13,7 @@ class Bot:
     username = ''
     interests = []
     botFollowed = []
+    copyAccounts = []
 
     def __init__(self, username, password, copy):
         self.username = username
@@ -22,6 +23,8 @@ class Bot:
                 os.mkdir('accounts/' + username)
             self.writeLog("Successful Login!")
             self.db = DB("accounts/" + username + "/data.db")
+            self.botFollowed = self.db.bot_followed(self.username)
+            self.copyAccounts = copy
             self.resolveCopyAccounts(copy)
         else:
             print("\nCould not log in to " + self.username + "\n")
@@ -31,9 +34,23 @@ class Bot:
         for i in range(0, len(c)):
             self.api.searchUsername(c[i])
             try:
-                self.interests.append(self.api.LastJson['user']['pk'])
+                print(str(self.api.LastJson['user']['pk']))
+                copyAccountID = self.api.LastJson['user']['pk']
+                self.writeLog("Getting interest followers from " + str(c[i]))
+                copyFollowers = self.api.getTotalFollowers(copyAccountID)
+
+                if len(copyFollowers) >= 15000:
+                    self.writeLog("Caching 15000 users from " + str(c[i]))
+                    randFollowStart = randint(0, len(copyFollowers) - 15001)
+                    self.interests = self.interests + copyFollowers[randFollowStart:randFollowStart + 15000]
+                else:
+                    self.writeLog("Caching " + str(len(copyFollowers)) + " users from " + str(c[i]))
+                    self.interests = self.interests + copyFollowers
             except:
-                c.remove(c[i])
+                self.writeLog("Invalid Copy Account: " + str(c[i]))
+                pass
+
+
 
     def run(self):
 
@@ -54,6 +71,10 @@ class Bot:
 
         # MAIN APPLICATION LOOP
         while True:
+
+            if len(self.interests) == 0:
+                self.writeLog("No users left in interests pool.")
+                exit()
             # CHECK FOR SUBSCRIPTION EXPIRATION - IF EXPIRED, START UNFOLLOWING AND
             if expires <= datetime.now():
                 self.writeLog("Subscription has expired. Unfollowing all users and cleaning up..")
@@ -68,18 +89,24 @@ class Bot:
                 self.botFollowed.reverse()
                 unfollow = True
 
-            # GATHER LIST OF USERS TO FOLLOW FROM A COPY ACCOUNT
-            if not unfollow and not forceUnfollow:
-                self.writeLog("Getting interest followers..")
-                interestFollowers = self.api.getTotalFollowers(self.interests[randint(0, len(self.interests) - 1)])
-                randFollowStart = randint(0, len(interestFollowers) - 1)
-                currentFollowIndex = randFollowStart
+            # # GATHER LIST OF USERS TO FOLLOW FROM A COPY ACCOUNT
+            # if not unfollow and not forceUnfollow:
+            #     randomCopyIndex = randint(0, len(self.interests) - 1)
+            #     self.writeLog("Getting interest followers from " + str(self.copyAccounts[randomCopyIndex]))
+            #     interestFollowers = self.api.getTotalFollowers(self.interests[randomCopyIndex])
+            #     randFollowStart = randint(0, len(interestFollowers) - 1)
+            #     currentFollowIndex = randFollowStart
+            #     self.writeLog("Finished retrieving interest followers")
 
             for i in range(1, randint(27, 35)):
                 if not unfollow and not forceUnfollow:
-                    if currentFollowIndex + 1 == len(interestFollowers):
-                        currentFollowIndex = 0
-                    targetFollow = interestFollowers[currentFollowIndex]
+                    randomFollowIndex = randint(0, len(self.interests))
+                    if randomFollowIndex == len(self.interests):
+                        randomFollowIndex = 0
+                    targetFollow = self.interests[randomFollowIndex]
+                    if targetFollow['pk'] in self.botFollowed:
+                        self.writeLog("Already following " + str(targetFollow['pk']) + ".. skipping over.")
+                        pass
                     if not self.api.follow(targetFollow['pk']):
                         self.writeLog("Could not follow anymore users right now..")
                         break
@@ -87,7 +114,8 @@ class Bot:
                         self.botFollowed.append(targetFollow['pk'])
                         self.db.add_follow(self.username, targetFollow['pk'])
                         self.writeLog("Followed user: " + str(targetFollow['username']))
-                        currentFollowIndex = currentFollowIndex + 1
+                        if targetFollow['pk'] in self.interests:
+                            self.interests.remove(targetFollow['pk'])
                         time.sleep(randint(1, 3))
                 else:
                     if len(self.botFollowed) > 0:
@@ -101,7 +129,9 @@ class Bot:
                         if len(self.botFollowed) <= 250 and not forceUnfollow:
                             self.botFollowed.reverse()
                             self.unfollow = False
+                        time.sleep(randint(1, 3))
 
+            self.writeLog("Current Amount of Tracked Following: " + str(len(self.botFollowed)))
             self.randomBreak()
 
     def checkRelationships(self):

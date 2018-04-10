@@ -554,3 +554,778 @@
 09-04-2018 00:35:38: Followed user: aziz.lotfi
 09-04-2018 00:35:42: Followed user: gon.amengual
 09-04-2018 00:35:43: Taking a break for 19 minutes 9 seconds.
+10-04-2018 04:30:38: Successful Login!
+10-04-2018 04:30:38: Invalid Copy Account: func.u
+10-04-2018 04:30:38: Invalid Copy Account: codykerns5
+10-04-2018 04:32:19: Successful Login!
+10-04-2018 04:32:20: Invalid Copy Account: codykerns5
+10-04-2018 04:32:20: Invalid Copy Account: icomeup
+10-04-2018 04:32:20: Invalid Copy Account: func.u
+10-04-2018 04:32:20: Checking relationships..
+10-04-2018 04:34:36: Successful Login!
+10-04-2018 04:34:36: Invalid Copy Account: icomeup
+10-04-2018 04:34:37: Invalid Copy Account: func.u
+10-04-2018 04:34:37: Invalid Copy Account: codykerns5
+10-04-2018 04:34:37: Checking relationships..
+10-04-2018 04:36:33: Successful Login!
+10-04-2018 04:36:33: Invalid Copy Account: icomeup
+10-04-2018 04:36:33: Invalid Copy Account: func.u
+10-04-2018 04:36:33: Invalid Copy Account: codykerns5
+10-04-2018 04:36:33: Checking relationships..
+10-04-2018 04:36:34: No users left in interests pool.
+10-04-2018 04:38:47: Successful Login!
+10-04-2018 04:38:48: Invalid Copy Account: icomeupo
+10-04-2018 04:38:48: Invalid Copy Account: codykerns5
+10-04-2018 04:38:48: Invalid Copy Account: func.u
+10-04-2018 04:38:48: Checking relationships..
+10-04-2018 04:38:48: No users left in interests pool.
+10-04-2018 04:40:48: Successful Login!
+10-04-2018 04:42:00: Successful Login!
+10-04-2018 04:42:00: Getting interest followers from icomeup
+10-04-2018 04:42:27: Caching 15000 users from icomeup
+10-04-2018 04:42:27: Getting interest followers from codykerns5
+10-04-2018 04:49:48: Caching 15000 users from codykerns5
+10-04-2018 04:49:49: Getting interest followers from func.u
+10-04-2018 04:57:52: Caching 15000 users from func.u
+10-04-2018 04:57:52: Checking relationships..
+10-04-2018 04:57:54: Followed user: xuxuuuupop
+10-04-2018 05:01:28: Successful Login!
+10-04-2018 05:01:28: Getting interest followers from michaeldimuro
+10-04-2018 05:01:35: Caching 3788 users from michaeldimuro
+10-04-2018 05:01:35: Getting interest followers from blitzmediamarketing
+10-04-2018 05:01:36: Caching 84 users from blitzmediamarketing
+10-04-2018 05:01:36: Getting interest followers from istayclassy
+10-04-2018 05:01:47: Caching 6727 users from istayclassy
+10-04-2018 05:01:47: Checking relationships..
+10-04-2018 05:01:48: Followed user: angieargus
+10-04-2018 05:01:50: Followed user: stunnagram_
+10-04-2018 05:01:53: Followed user: swyzen
+10-04-2018 05:01:55: Followed user: mgodlew
+10-04-2018 05:01:59: Followed user: sarahnewmanbackup
+10-04-2018 05:02:03: Followed user: kristyguevara_
+10-04-2018 05:02:05: Followed user: ellie._.mina
+10-04-2018 05:02:07: Followed user: igorgpl
+10-04-2018 05:02:08: Followed user: sirisaacdavisjr
+10-04-2018 05:02:12: Followed user: gorillabloodline
+10-04-2018 05:02:15: Followed user: rmkeats
+10-04-2018 05:02:17: Followed user: angelinayankova
+10-04-2018 05:02:21: Followed user: ivi_stone
+10-04-2018 05:02:23: Followed user: brettnims
+10-04-2018 05:02:26: Followed user: dariadorazio___
+10-04-2018 05:02:29: Followed user: raja_kamran84
+10-04-2018 05:02:32: Followed user: mf_ers
+10-04-2018 05:02:35: Followed user: bon6m
+10-04-2018 05:02:39: Followed user: k_wood5
+10-04-2018 05:02:42: Followed user: codiprintz
+10-04-2018 05:02:46: Followed user: darren_202
+10-04-2018 05:02:50: Followed user: cbancuk08
+10-04-2018 05:02:53: Followed user: v.boyanova
+10-04-2018 05:02:57: Followed user: ihbmg
+10-04-2018 05:03:01: Followed user: jeriah_x
+10-04-2018 05:03:04: Followed user: robertp301
+10-04-2018 05:03:07: Followed user: aj102894
+10-04-2018 05:03:11: Followed user: jessicaapughhxo
+10-04-2018 05:03:14: Followed user: kingsosagram
+10-04-2018 05:03:15: Followed user: tjm841
+10-04-2018 05:03:18: Current Amount of Tracked Following: 30
+10-04-2018 05:03:18: Taking a break for 20 minutes 43 seconds.
+10-04-2018 05:09:39: Successful Login!
+10-04-2018 05:09:39: Getting interest followers from michaeldimuro
+10-04-2018 05:09:44: Caching 3787 users from michaeldimuro
+10-04-2018 05:09:45: Getting interest followers from istayclassy
+10-04-2018 05:09:54: Caching 6727 users from istayclassy
+10-04-2018 05:09:54: Getting interest followers from blitzmediamarketing
+10-04-2018 05:09:54: Caching 85 users from blitzmediamarketing
+10-04-2018 05:09:54: Checking relationships..
+10-04-2018 05:09:56: Followed user: _dr_pepper_scholarships_
+10-04-2018 05:10:00: Followed user: adrianosantarsia
+10-04-2018 05:10:03: Followed user: takecare0105
+10-04-2018 05:10:07: Followed user: collegetakeovers
+10-04-2018 05:10:10: Followed user: mattfuller93
+10-04-2018 05:10:13: Followed user: bchatel
+10-04-2018 05:10:16: Followed user: savasmetehan
+10-04-2018 05:10:18: Followed user: white_mocha01
+10-04-2018 05:10:21: Followed user: price_keith
+10-04-2018 05:10:24: Followed user: rjep25
+10-04-2018 05:10:26: Followed user: alangar5947
+10-04-2018 05:10:28: Followed user: stellapomx
+10-04-2018 05:10:31: Followed user: lovelystephy_
+10-04-2018 05:10:34: Followed user: rtamanosky
+10-04-2018 05:10:38: Followed user: zlinn89
+10-04-2018 05:10:42: Followed user: dimartian1
+10-04-2018 05:10:44: Followed user: alexieisom
+10-04-2018 05:10:45: Followed user: dcazaux
+10-04-2018 05:10:48: Followed user: shoutouts345
+10-04-2018 05:10:51: Followed user: denequia
+10-04-2018 05:10:53: Followed user: _.forever_21_
+10-04-2018 05:10:56: Followed user: franciscobikeeer
+10-04-2018 05:10:59: Followed user: amazingdjmusic
+10-04-2018 05:11:02: Followed user: r.karagiozova
+10-04-2018 05:11:06: Followed user: nikosdimas
+10-04-2018 05:11:07: Followed user: jessicaalishaaa
+10-04-2018 05:11:11: Followed user: sophiaberrios
+10-04-2018 05:11:15: Followed user: stahl.law
+10-04-2018 05:11:18: Followed user: koidalipoznawam
+10-04-2018 05:11:19: Followed user: quietly_wyatt
+10-04-2018 05:11:22: Followed user: darknessbros
+10-04-2018 05:11:24: Followed user: mag1karpp
+10-04-2018 05:11:28: Followed user: alejandroc.vila
+10-04-2018 05:11:30: Current Amount of Tracked Following: 33
+10-04-2018 05:11:30: Taking a break for 20 minutes 28 seconds.
+10-04-2018 05:17:17: Successful Login!
+10-04-2018 05:17:17: Getting interest followers from michaeldimuro
+10-04-2018 05:17:23: Caching 3787 users from michaeldimuro
+10-04-2018 05:17:23: Getting interest followers from istayclassy
+10-04-2018 05:17:32: Caching 6727 users from istayclassy
+10-04-2018 05:17:33: Getting interest followers from blitzmediamarketing
+10-04-2018 05:17:33: Caching 85 users from blitzmediamarketing
+10-04-2018 05:17:33: Followed user: lemargriffinfilms
+10-04-2018 05:17:37: Followed user: mb515079
+10-04-2018 05:17:40: Followed user: chriswagner17
+10-04-2018 05:17:42: Followed user: livinpoetry
+10-04-2018 05:17:44: Followed user: samkeesey
+10-04-2018 05:17:46: Followed user: notorioust.i.c
+10-04-2018 05:17:49: Followed user: mdconfidential
+10-04-2018 05:17:51: Followed user: jonicee24
+10-04-2018 05:17:54: Followed user: trainthrive3
+10-04-2018 05:17:57: Followed user: chudor71
+10-04-2018 05:18:01: Followed user: iramymont
+10-04-2018 05:18:03: Followed user: jusitnrex
+10-04-2018 05:18:05: Followed user: schmittypics
+10-04-2018 05:18:08: Followed user: muditupa15
+10-04-2018 05:18:10: Followed user: adamgoodsportsbar1
+10-04-2018 05:18:14: Followed user: franz221
+10-04-2018 05:18:17: Followed user: jmel2471983
+10-04-2018 05:18:19: Followed user: jknights2122
+10-04-2018 05:18:23: Followed user: college_hotties_
+10-04-2018 05:18:27: Followed user: tianamasters
+10-04-2018 05:18:30: Followed user: ivienianewkirk
+10-04-2018 05:18:32: Followed user: davejones21009
+10-04-2018 05:18:34: Followed user: mgabatours
+10-04-2018 05:18:37: Followed user: blakewollman
+10-04-2018 05:18:40: Followed user: dylanjarvis
+10-04-2018 05:18:44: Followed user: ben_sculli
+10-04-2018 05:18:46: Followed user: heres_donnie51
+10-04-2018 05:18:49: Current Amount of Tracked Following: 60
+10-04-2018 05:18:49: Taking a break for 22 minutes 16 seconds.
+10-04-2018 05:41:06: Followed user: hhhygybjkhfthjhcs3t.yfhbfy8657
+10-04-2018 05:41:09: Followed user: trofimovakristina9
+10-04-2018 05:41:12: Followed user: drewbie_snacks94
+10-04-2018 05:41:14: Followed user: iskaterboyjayi
+10-04-2018 05:41:17: Followed user: keltinzane
+10-04-2018 05:41:20: Followed user: favi_donato
+10-04-2018 05:41:23: Followed user: quesogod
+10-04-2018 05:41:25: Followed user: nicop5
+10-04-2018 05:41:27: Followed user: __mike__walrond
+10-04-2018 05:41:30: Followed user: leen.andrsn
+10-04-2018 05:41:33: Followed user: kyla_seren
+10-04-2018 05:41:35: Followed user: colinhenrich78
+10-04-2018 05:41:36: Followed user: mellieflous
+10-04-2018 05:41:38: Followed user: stephanie_costaa
+10-04-2018 05:41:40: Followed user: crazyrednecks_420
+10-04-2018 05:41:44: Followed user: tkrust33
+10-04-2018 05:41:47: Followed user: tomhuesser
+10-04-2018 05:41:51: Followed user: noah_ashwell
+10-04-2018 05:41:55: Followed user: tylerrussell
+10-04-2018 05:41:57: Followed user: pre_malone508
+10-04-2018 05:41:59: Followed user: marzmadness
+10-04-2018 05:42:02: Followed user: maddie_murphyyy
+10-04-2018 05:42:06: Followed user: otunga_david
+10-04-2018 05:42:11: Followed user: lasolmaalcala
+10-04-2018 05:42:14: Followed user: mroxley
+10-04-2018 05:42:19: Followed user: mowing_the_sean
+10-04-2018 05:42:24: Followed user: j_ly32
+10-04-2018 05:42:26: Followed user: kaylynnann10
+10-04-2018 05:42:30: Followed user: euro.18.bocc
+10-04-2018 05:42:33: Followed user: dtx.jazzii
+10-04-2018 05:42:34: Followed user: randywhite9865
+10-04-2018 05:42:37: Current Amount of Tracked Following: 91
+10-04-2018 05:42:37: Taking a break for 19 minutes 2 seconds.
+10-04-2018 06:01:40: Followed user: helsinkiforvisitors
+10-04-2018 06:01:43: Followed user: biegysmalls
+10-04-2018 06:01:44: Already following 22635330.. skipping over.
+10-04-2018 06:01:45: Followed user: mowing_the_sean
+10-04-2018 06:01:48: Followed user: natemania_781
+10-04-2018 06:01:52: Followed user: jackleematthews
+10-04-2018 06:01:55: Followed user: sandii_guadalupe
+10-04-2018 06:01:57: Followed user: richarddguez
+10-04-2018 06:01:58: Followed user: shoefreak23
+10-04-2018 06:02:01: Followed user: vulkovvmaksim
+10-04-2018 06:02:05: Followed user: nathanmckay5
+10-04-2018 06:02:07: Followed user: ilhan_ilbasi
+10-04-2018 06:02:09: Followed user: the_legendary_shoe_shine
+10-04-2018 06:02:10: Followed user: wiwiwidyawati
+10-04-2018 06:02:12: Followed user: woolybugger75
+10-04-2018 06:02:16: Followed user: ocoylerules21
+10-04-2018 06:02:20: Followed user: ilaydaoozturk
+10-04-2018 06:02:23: Followed user: brianconnolly7
+10-04-2018 06:02:27: Followed user: kendonbro
+10-04-2018 06:02:29: Followed user: alexahoffman
+10-04-2018 06:02:32: Followed user: ana.pant1n
+10-04-2018 06:02:35: Followed user: pcwurdinger
+10-04-2018 06:02:39: Followed user: v.i.p_s
+10-04-2018 06:02:43: Followed user: jake_mccarthyy
+10-04-2018 06:02:46: Followed user: aliahels_
+10-04-2018 06:02:50: Followed user: rodry_blanco
+10-04-2018 06:02:52: Followed user: fashion.inspo1959
+10-04-2018 06:02:56: Followed user: makenewyork
+10-04-2018 06:03:00: Followed user: shrapnel19
+10-04-2018 06:03:03: Current Amount of Tracked Following: 119
+10-04-2018 06:03:03: Taking a break for 22 minutes 52 seconds.
+10-04-2018 06:25:57: Followed user: craigdashiell
+10-04-2018 06:25:58: Followed user: anna_king1197
+10-04-2018 06:26:02: Followed user: djt.95
+10-04-2018 06:26:06: Followed user: cadekuglitsch
+10-04-2018 06:26:08: Followed user: ralfy_70
+10-04-2018 06:26:12: Followed user: mimi_single_fitness
+10-04-2018 06:26:15: Followed user: 24_success
+10-04-2018 06:26:18: Followed user: boshnakovv
+10-04-2018 06:26:20: Followed user: the_cutie224
+10-04-2018 06:26:22: Followed user: gabs__of_steel
+10-04-2018 06:26:24: Followed user: dino_mannis
+10-04-2018 06:26:27: Followed user: blackoutalison
+10-04-2018 06:26:31: Followed user: spgreene_
+10-04-2018 06:26:33: Followed user: jay_breezey_
+10-04-2018 06:26:35: Followed user: wmosby04
+10-04-2018 06:26:38: Followed user: dnt_paniq
+10-04-2018 06:26:41: Followed user: biggamevince
+10-04-2018 06:26:44: Followed user: pop76
+10-04-2018 06:26:46: Followed user: jamesdvlara
+10-04-2018 06:26:48: Followed user: mariqnkurdovv
+10-04-2018 06:26:51: Followed user: tractorboy4545
+10-04-2018 06:26:53: Followed user: quicklaughs
+10-04-2018 06:26:55: Followed user: dahawkss
+10-04-2018 06:26:58: Followed user: teamcap36
+10-04-2018 06:27:02: Followed user: coreymatthew
+10-04-2018 06:27:04: Followed user: baustin73
+10-04-2018 06:27:07: Followed user: gn_dd
+10-04-2018 06:27:09: Followed user: dkil88
+10-04-2018 06:27:13: Followed user: frankedelic_
+10-04-2018 06:27:16: Current Amount of Tracked Following: 148
+10-04-2018 06:27:16: Taking a break for 23 minutes 5 seconds.
+10-04-2018 06:50:22: Followed user: tj_henderson33
+10-04-2018 06:50:24: Followed user: michaelcox7088
+10-04-2018 06:50:26: Followed user: tk_rabon
+10-04-2018 06:50:28: Followed user: calvinsings
+10-04-2018 06:50:31: Followed user: h_forrester24
+10-04-2018 06:50:35: Followed user: bentran001
+10-04-2018 06:50:38: Followed user: jokynlee
+10-04-2018 06:50:42: Followed user: gustavo276.4
+10-04-2018 06:50:46: Followed user: damonross02
+10-04-2018 06:50:51: Followed user: elturbonegro
+10-04-2018 06:50:54: Followed user: tara_weberx3
+10-04-2018 06:50:57: Followed user: basitmohammad
+10-04-2018 06:51:00: Followed user: ellaadee
+10-04-2018 06:51:04: Followed user: zeinnaaa
+10-04-2018 06:51:06: Followed user: anthony_knows_
+10-04-2018 06:51:10: Followed user: jenstrong333
+10-04-2018 06:51:13: Followed user: beibei_mh
+10-04-2018 06:51:16: Followed user: muskettt
+10-04-2018 06:51:19: Followed user: tjones19
+10-04-2018 06:51:22: Followed user: georgiedickerson
+10-04-2018 06:51:24: Followed user: tonysilveri
+10-04-2018 06:51:26: Followed user: nick_e_filosa
+10-04-2018 06:51:28: Followed user: nikkirispoli
+10-04-2018 06:51:32: Followed user: become_more
+10-04-2018 06:51:34: Followed user: ptzone
+10-04-2018 06:51:37: Followed user: mixingmist
+10-04-2018 06:51:40: Followed user: pigeon_1109
+10-04-2018 06:51:41: Current Amount of Tracked Following: 175
+10-04-2018 06:51:41: Taking a break for 20 minutes 48 seconds.
+10-04-2018 07:12:30: Followed user: liadimuuuro
+10-04-2018 07:12:33: Followed user: official____tunesquad
+10-04-2018 07:12:37: Followed user: libretacos
+10-04-2018 07:12:39: Followed user: some_guy_in_atlanta
+10-04-2018 07:12:42: Followed user: adrianchoooo
+10-04-2018 07:12:45: Followed user: _wallop_13
+10-04-2018 07:12:50: Followed user: codytrotter
+10-04-2018 07:12:52: Followed user: justinsmith4059
+10-04-2018 07:12:55: Followed user: eyeslo32
+10-04-2018 07:12:58: Followed user: cavresibrahim
+10-04-2018 07:13:01: Followed user: brutalyungen8
+10-04-2018 07:13:03: Followed user: bbbrasilian
+10-04-2018 07:13:06: Followed user: georgejohns4129
+10-04-2018 07:13:08: Followed user: sophmrusso
+10-04-2018 07:13:10: Followed user: snirbb
+10-04-2018 07:13:12: Followed user: semajames16
+10-04-2018 07:13:14: Followed user: thereal2cups
+10-04-2018 07:13:17: Followed user: dieter4575
+10-04-2018 07:13:21: Followed user: heidi.narvaez
+10-04-2018 07:13:24: Followed user: selim_choukair09
+10-04-2018 07:13:29: Followed user: tylerriccio
+10-04-2018 07:13:32: Followed user: karaash__
+10-04-2018 07:13:33: Followed user: hh.gym
+10-04-2018 07:13:35: Followed user: chelseapiell
+10-04-2018 07:13:37: Followed user: dennis246
+10-04-2018 07:13:41: Followed user: bsaucehessy
+10-04-2018 07:13:45: Followed user: trencseni
+10-04-2018 07:13:48: Followed user: wade.r.hodges
+10-04-2018 07:13:51: Followed user: black001100
+10-04-2018 07:13:55: Followed user: anthonybarone11
+10-04-2018 07:13:56: Current Amount of Tracked Following: 205
+10-04-2018 07:13:56: Taking a break for 19 minutes 12 seconds.
+10-04-2018 07:33:09: Followed user: wam123456789
+10-04-2018 07:33:11: Followed user: pyshbokadia
+10-04-2018 07:33:14: Followed user: bmoreboy1997
+10-04-2018 07:33:19: Followed user: cityy_princess
+10-04-2018 07:33:21: Followed user: smickall
+10-04-2018 07:33:24: Followed user: alexstewart
+10-04-2018 07:33:27: Followed user: katiemchampion
+10-04-2018 07:33:29: Followed user: blaineknox4
+10-04-2018 07:33:32: Followed user: rjep25
+10-04-2018 07:33:35: Followed user: madisonleibrecht
+10-04-2018 07:33:38: Followed user: the_swaggers_band
+10-04-2018 07:33:41: Followed user: luckcage2017
+10-04-2018 07:33:43: Followed user: gresabri27
+10-04-2018 07:33:44: Followed user: flyfortuneco1
+10-04-2018 07:33:46: Followed user: toni_caruso17
+10-04-2018 07:33:51: Followed user: dannymac234
+10-04-2018 07:33:53: Followed user: hayleigh_noelle
+10-04-2018 07:33:55: Followed user: malika_.i
+10-04-2018 07:33:58: Followed user: iorioyankee
+10-04-2018 07:34:00: Followed user: regulator.johnson96
+10-04-2018 07:34:01: Followed user: neli_enriquez
+10-04-2018 07:34:03: Followed user: steve_e46
+10-04-2018 07:34:05: Followed user: abstractioninaction
+10-04-2018 07:34:08: Followed user: brend0n_da_bozzzzz
+10-04-2018 07:34:11: Followed user: luseikheloa
+10-04-2018 07:34:13: Followed user: chooie1121
+10-04-2018 07:34:14: Already following 229095442.. skipping over.
+10-04-2018 07:34:15: Followed user: muskettt
+10-04-2018 07:34:18: Followed user: thakidd.drippy
+10-04-2018 07:34:20: Followed user: oscarviloria2126
+10-04-2018 07:34:22: Followed user: sari_boo
+10-04-2018 07:34:26: Followed user: __susanglenn__
+10-04-2018 07:34:30: Followed user: brandon.rubeo
+10-04-2018 07:34:32: Already following 1958297573.. skipping over.
+10-04-2018 07:34:33: Followed user: crazyrednecks_420
+10-04-2018 07:34:34: Current Amount of Tracked Following: 238
+10-04-2018 07:34:34: Taking a break for 19 minutes 27 seconds.
+10-04-2018 07:54:02: Followed user: mafe0906design
+10-04-2018 07:54:05: Followed user: youssef.deoure
+10-04-2018 07:54:09: Followed user: slamuel6789
+10-04-2018 07:54:11: Followed user: jay_wints
+10-04-2018 07:54:15: Followed user: alexurban
+10-04-2018 07:54:19: Followed user: _ghostmtn_
+10-04-2018 07:54:21: Followed user: xojess_lynnxo
+10-04-2018 07:54:24: Followed user: jraio23
+10-04-2018 07:54:26: Followed user: hallereynolds11
+10-04-2018 07:54:29: Followed user: a_giesler
+10-04-2018 07:54:32: Followed user: jorlovsky
+10-04-2018 07:54:34: Followed user: jay.d_11
+10-04-2018 07:54:38: Followed user: college_white_board
+10-04-2018 07:54:42: Followed user: ferreyraedgardomartin
+10-04-2018 07:54:45: Followed user: rosieeeeeo
+10-04-2018 07:54:47: Followed user: shawncward
+10-04-2018 07:54:51: Followed user: k_ramona
+10-04-2018 07:54:55: Followed user: kristybachman
+10-04-2018 07:54:59: Followed user: bruhhhh1988
+10-04-2018 07:55:03: Followed user: annie____le
+10-04-2018 07:55:06: Followed user: jacylove08
+10-04-2018 07:55:08: Followed user: jessicaalishaaa
+10-04-2018 07:55:12: Followed user: cecar53
+10-04-2018 07:55:14: Followed user: ctpyja88
+10-04-2018 07:55:17: Followed user: treeva_23
+10-04-2018 07:55:19: Followed user: jacklynquek_
+10-04-2018 07:55:23: Followed user: jesskayhuff
+10-04-2018 07:55:25: Followed user: maddyson09
+10-04-2018 07:55:29: Followed user: jjmarino
+10-04-2018 07:55:33: Followed user: rlynd5820
+10-04-2018 07:55:34: Followed user: justinhep023
+10-04-2018 07:55:36: Followed user: wh1temamba2
+10-04-2018 07:55:39: Followed user: shoecamel
+10-04-2018 07:55:42: Current Amount of Tracked Following: 271
+10-04-2018 07:55:42: Taking a break for 20 minutes 15 seconds.
+10-04-2018 08:15:58: Followed user: rabanalescarlos
+10-04-2018 08:16:00: Followed user: wilsonalves95
+10-04-2018 08:16:03: Followed user: steven_porte
+10-04-2018 08:16:06: Followed user: chloe_odonnell7
+10-04-2018 08:16:09: Followed user: coolcalmcris
+10-04-2018 08:16:11: Followed user: jordanhjelm
+10-04-2018 08:16:13: Followed user: mcmargaret
+10-04-2018 08:16:15: Followed user: jimboslicebone
+10-04-2018 08:16:19: Followed user: amu_kamboj
+10-04-2018 08:16:22: Followed user: mr_legarreta
+10-04-2018 08:16:26: Followed user: lu72lulu
+10-04-2018 08:16:27: Followed user: pablobeltran81
+10-04-2018 08:16:30: Followed user: ant_peterpaul
+10-04-2018 08:16:34: Followed user: kaarlagutierrez
+10-04-2018 08:16:38: Followed user: jaysylvia7
+10-04-2018 08:16:42: Followed user: perzenting
+10-04-2018 08:16:46: Followed user: zcgitzen0
+10-04-2018 08:16:48: Followed user: xelloszth
+10-04-2018 08:16:51: Followed user: _2ucci
+10-04-2018 08:16:54: Followed user: dustin_guenther
+10-04-2018 08:16:55: Followed user: stephenpelosi
+10-04-2018 08:17:00: Followed user: kt__hoffman
+10-04-2018 08:17:02: Followed user: er_mccabe
+10-04-2018 08:17:06: Followed user: souldjadev
+10-04-2018 08:17:07: Followed user: aesthetics_john
+10-04-2018 08:17:10: Followed user: hazman0909
+10-04-2018 08:17:14: Followed user: itsniefa
+10-04-2018 08:17:18: Followed user: hgreenwoood_
+10-04-2018 08:17:20: Current Amount of Tracked Following: 299
+10-04-2018 08:17:20: Taking a break for 20 minutes 0 seconds.
+10-04-2018 08:37:21: Followed user: emilyyybrodiee
+10-04-2018 08:37:24: Followed user: nedryerson12
+10-04-2018 08:37:27: Followed user: nickverderamo
+10-04-2018 08:37:28: Followed user: eileen.bm
+10-04-2018 08:37:30: Followed user: tailoredink
+10-04-2018 08:37:32: Followed user: pacgmn_2245
+10-04-2018 08:37:34: Followed user: gastonnowakowski
+10-04-2018 08:37:37: Followed user: tjscafone
+10-04-2018 08:37:41: Followed user: _sam__wise_
+10-04-2018 08:37:44: Followed user: soffie_darken
+10-04-2018 08:37:46: Followed user: natalei8541
+10-04-2018 08:37:50: Followed user: ahmed_el_ghazaly
+10-04-2018 08:37:54: Followed user: mrs_beaut
+10-04-2018 08:37:55: Followed user: kaiyam15
+10-04-2018 08:37:57: Followed user: nunu.the.barber
+10-04-2018 08:38:00: Already following 270056045.. skipping over.
+10-04-2018 08:38:01: Followed user: some_guy_in_atlanta
+10-04-2018 08:38:03: Followed user: bairo78
+10-04-2018 08:38:05: Followed user: keithsellars
+10-04-2018 08:38:08: Followed user: mark.napier2
+10-04-2018 08:38:11: Followed user: michaelchance758
+10-04-2018 08:38:14: Followed user: d___mingo
+10-04-2018 08:38:17: Followed user: the_koss_boss
+10-04-2018 08:38:19: Followed user: marioland
+10-04-2018 08:38:21: Followed user: tonidimovaa
+10-04-2018 08:38:23: Followed user: dannydobrzy
+10-04-2018 08:38:26: Followed user: morrayeel
+10-04-2018 08:38:29: Followed user: mattmoorer3
+10-04-2018 08:38:33: Followed user: people_of_brower
+10-04-2018 08:38:36: Followed user: the_one_thompson
+10-04-2018 08:38:38: Followed user: nicoletabadova
+10-04-2018 08:38:41: Followed user: maddielepore
+10-04-2018 08:38:43: Followed user: kennntennn
+10-04-2018 08:38:45: Followed user: sheresaidon
+10-04-2018 08:38:48: Current Amount of Tracked Following: 332
+10-04-2018 08:38:48: Taking a break for 21 minutes 18 seconds.
+10-04-2018 09:00:07: Followed user: n_andreaa_
+10-04-2018 09:00:10: Followed user: shane_brennan2
+10-04-2018 09:00:13: Followed user: courtdice
+10-04-2018 09:00:17: Followed user: gkovachevv
+10-04-2018 09:00:21: Followed user: buck_miller4
+10-04-2018 09:00:24: Followed user: tailoredtintsnj
+10-04-2018 09:00:26: Followed user: tayhruz
+10-04-2018 09:00:27: Followed user: elsamagnolia
+10-04-2018 09:00:31: Followed user: kiarra_r
+10-04-2018 09:00:34: Followed user: rissababy
+10-04-2018 09:00:37: Followed user: aquamarine98
+10-04-2018 09:00:40: Followed user: shirey.steven
+10-04-2018 09:00:42: Followed user: unsungsuperhero
+10-04-2018 09:00:46: Followed user: levelupnutritionig
+10-04-2018 09:00:48: Followed user: pd8088
+10-04-2018 09:00:51: Followed user: edswag2849
+10-04-2018 09:00:53: Followed user: kirilkacarov
+10-04-2018 09:00:55: Followed user: drew_zucker
+10-04-2018 09:00:57: Followed user: zebo160
+10-04-2018 09:01:01: Followed user: white_mocha01
+10-04-2018 09:01:04: Followed user: la_dreyonce
+10-04-2018 09:01:06: Followed user: slim0449
+10-04-2018 09:01:09: Followed user: matt_mancino
+10-04-2018 09:01:13: Followed user: franciscobikeeer
+10-04-2018 09:01:14: Followed user: sean_cartier.1979
+10-04-2018 09:01:18: Followed user: quinn_joshua
+10-04-2018 09:01:21: Followed user: natalie_pearson_23
+10-04-2018 09:01:24: Followed user: organicrootskai
+10-04-2018 09:01:26: Followed user: bobsmithjr777
+10-04-2018 09:01:28: Followed user: tnasty6987
+10-04-2018 09:01:30: Followed user: natalia_borrero_silva
+10-04-2018 09:01:34: Followed user: milkmaine
+10-04-2018 09:01:36: Followed user: deanaziz97
+10-04-2018 09:01:39: Followed user: jayburt198199
+10-04-2018 09:01:42: Current Amount of Tracked Following: 366
+10-04-2018 09:01:42: Taking a break for 18 minutes 39 seconds.
+10-04-2018 09:20:23: Followed user: b_easy.bizzie410
+10-04-2018 09:20:25: Followed user: dj_bk__1738
+10-04-2018 09:20:27: Followed user: brenanchiulli
+10-04-2018 09:20:30: Followed user: caseys_pizza_420
+10-04-2018 09:20:33: Followed user: alyssagibbons_
+10-04-2018 09:20:36: Followed user: connor_cox
+10-04-2018 09:20:38: Followed user: zohrabiakbar5
+10-04-2018 09:20:41: Followed user: drecklessasian
+10-04-2018 09:20:44: Followed user: bvnestorova
+10-04-2018 09:20:46: Followed user: laur__en
+10-04-2018 09:20:49: Followed user: evolution34542
+10-04-2018 09:20:54: Followed user: philsaglietto
+10-04-2018 09:20:58: Followed user: mr.misunderstood86
+10-04-2018 09:21:03: Followed user: hannymoon69
+10-04-2018 09:21:05: Followed user: tjplayboi21
+10-04-2018 09:21:09: Followed user: t.a.n.i.a._m
+10-04-2018 09:21:13: Followed user: jshirk123
+10-04-2018 09:21:18: Followed user: havesomevaeth
+10-04-2018 09:21:22: Followed user: pinkberry7873
+10-04-2018 09:21:26: Followed user: dreamm_fits
+10-04-2018 09:21:28: Followed user: monzie97
+10-04-2018 09:21:32: Followed user: v_lapergola
+10-04-2018 09:21:36: Followed user: tyleroppel
+10-04-2018 09:21:39: Already following 349060264.. skipping over.
+10-04-2018 09:21:40: Followed user: wh1temamba2
+10-04-2018 09:21:43: Followed user: scoobynasufi
+10-04-2018 09:21:46: Followed user: somya_chhipa
+10-04-2018 09:21:48: Current Amount of Tracked Following: 392
+10-04-2018 09:21:48: Taking a break for 23 minutes 51 seconds.
+10-04-2018 09:45:40: Followed user: jewelianaa
+10-04-2018 09:45:44: Followed user: brendancorourke
+10-04-2018 09:45:48: Followed user: charlotte.launier
+10-04-2018 09:45:52: Followed user: brit_ramp
+10-04-2018 09:45:55: Followed user: laidbacklort
+10-04-2018 09:45:58: Followed user: joshuamdean
+10-04-2018 09:46:00: Followed user: isabellanunes22
+10-04-2018 09:46:02: Followed user: angelesbrdr
+10-04-2018 09:46:04: Followed user: kelly1496
+10-04-2018 09:46:08: Followed user: lalalengel
+10-04-2018 09:46:11: Followed user: dean_ferro
+10-04-2018 09:46:14: Followed user: to.easyy
+10-04-2018 09:46:15: Followed user: reesegrau_
+10-04-2018 09:46:19: Followed user: zebulon8193
+10-04-2018 09:46:21: Followed user: kevnickels
+10-04-2018 09:46:25: Followed user: kevinreynolds4821
+10-04-2018 09:46:28: Followed user: silviabsimonetti94
+10-04-2018 09:46:31: Followed user: 8tuna8
+10-04-2018 09:46:35: Followed user: willstone_5
+10-04-2018 09:46:39: Followed user: celestine7
+10-04-2018 09:46:41: Followed user: littleformore
+10-04-2018 09:46:44: Followed user: prismaticlight
+10-04-2018 09:46:46: Followed user: keegreenwood
+10-04-2018 09:46:50: Followed user: hockey11jake
+10-04-2018 09:46:53: Followed user: heyitskyddo
+10-04-2018 09:46:56: Followed user: galkokz
+10-04-2018 09:46:59: Followed user: young_capi74
+10-04-2018 09:47:02: Followed user: slednecks488
+10-04-2018 09:47:05: Followed user: _.karen.murcia._
+10-04-2018 09:47:06: Current Amount of Tracked Following: 421
+10-04-2018 09:47:06: Taking a break for 23 minutes 28 seconds.
+10-04-2018 10:10:35: Followed user: myles_devine
+10-04-2018 10:10:38: Followed user: bugrahantuzel
+10-04-2018 10:10:40: Followed user: therealdhruv
+10-04-2018 10:10:43: Followed user: lifeewalyssa
+10-04-2018 10:10:47: Followed user: alexkettinger
+10-04-2018 10:10:51: Followed user: ethandale90
+10-04-2018 10:10:54: Already following 1678116075.. skipping over.
+10-04-2018 10:10:55: Followed user: brianconnolly7
+10-04-2018 10:10:58: Followed user: xomarleys_savage_barbiexo
+10-04-2018 10:11:01: Followed user: amb_bxo
+10-04-2018 10:11:04: Followed user: evankokenzie
+10-04-2018 10:11:07: Followed user: houseofjayne133
+10-04-2018 10:11:10: Already following 1319036245.. skipping over.
+10-04-2018 10:11:11: Followed user: selim_choukair09
+10-04-2018 10:11:13: Followed user: mateevlubomir
+10-04-2018 10:11:17: Followed user: jona_castro22
+10-04-2018 10:11:19: Followed user: joeylettera
+10-04-2018 10:11:23: Followed user: meganlmck
+10-04-2018 10:11:26: Followed user: jackedesouza
+10-04-2018 10:11:29: Followed user: alexgordonphotos
+10-04-2018 10:11:31: Followed user: gain_addict
+10-04-2018 10:11:34: Followed user: i_love_dance7
+10-04-2018 10:11:37: Followed user: logan.bell12
+10-04-2018 10:11:40: Followed user: ebogg6
+10-04-2018 10:11:43: Followed user: ladysara_88
+10-04-2018 10:11:45: Followed user: gtinelli
+10-04-2018 10:11:49: Followed user: chris.ganow.3
+10-04-2018 10:11:50: Followed user: aecruz510ut
+10-04-2018 10:11:54: Followed user: dimartian1
+10-04-2018 10:11:58: Followed user: jenya180
+10-04-2018 10:12:02: Followed user: ibrahimsaracis
+10-04-2018 10:12:04: Followed user: adamspicer21
+10-04-2018 10:12:07: Followed user: camilleaynsleigh_
+10-04-2018 10:12:10: Followed user: emilystheboss
+10-04-2018 10:12:14: Followed user: jessegarcia7696
+10-04-2018 10:12:18: Followed user: tim_altig
+10-04-2018 10:12:21: Current Amount of Tracked Following: 455
+10-04-2018 10:12:21: Taking a break for 23 minutes 13 seconds.
+10-04-2018 10:35:35: Followed user: day1104
+10-04-2018 10:35:39: Followed user: berti_16_life
+10-04-2018 10:35:43: Followed user: lirhoss11
+10-04-2018 10:35:47: Followed user: alex_lourido
+10-04-2018 10:35:51: Followed user: matt_rambo_curtis
+10-04-2018 10:35:53: Followed user: trainmeanin2015
+10-04-2018 10:35:56: Followed user: mini.naji
+10-04-2018 10:35:58: Already following 51275432.. skipping over.
+10-04-2018 10:35:59: Followed user: milkmaine
+10-04-2018 10:36:01: Followed user: _dan_sawyer_
+10-04-2018 10:36:05: Followed user: fashion_wishes448
+10-04-2018 10:36:08: Followed user: sirack_rodriguez
+10-04-2018 10:36:11: Followed user: liberty.hoover
+10-04-2018 10:36:12: Followed user: alexsac94
+10-04-2018 10:36:17: Followed user: zroprice
+10-04-2018 10:36:19: Followed user: eli_perry
+10-04-2018 10:36:23: Followed user: y_angelowa
+10-04-2018 10:36:26: Followed user: cw_connieandrews
+10-04-2018 10:36:28: Followed user: stefanie_poolafterdark
+10-04-2018 10:36:30: Followed user: un_satisfieddd
+10-04-2018 10:36:33: Followed user: laurenjrobbins
+10-04-2018 10:36:36: Followed user: aurthurprince1
+10-04-2018 10:36:38: Followed user: beardsome01
+10-04-2018 10:36:42: Followed user: ryan.whitewolf
+10-04-2018 10:36:46: Followed user: scuba_steve7793
+10-04-2018 10:36:48: Followed user: benjamin_woodlief
+10-04-2018 10:36:53: Followed user: natepr32
+10-04-2018 10:36:57: Followed user: chromepistol45
+10-04-2018 10:36:59: Followed user: relatedmusicgroup
+10-04-2018 10:37:01: Followed user: shwu2i29i2i488rjrid
+10-04-2018 10:37:04: Followed user: liam_beausolei1
+10-04-2018 10:37:06: Followed user: ethanmoore16
+10-04-2018 10:37:07: Current Amount of Tracked Following: 486
+10-04-2018 10:37:07: Taking a break for 23 minutes 49 seconds.
+10-04-2018 11:00:58: Followed user: garrettwillis917
+10-04-2018 11:01:01: Already following 270056045.. skipping over.
+10-04-2018 11:01:01: Followed user: some_guy_in_atlanta
+10-04-2018 11:01:03: Followed user: rybel511
+10-04-2018 11:01:05: Followed user: marcos000000009
+10-04-2018 11:01:08: Followed user: arjun_singh_charak
+10-04-2018 11:01:12: Followed user: lalalalalola13
+10-04-2018 11:01:15: Followed user: anjapuskic
+10-04-2018 11:01:18: Followed user: teek3624
+10-04-2018 11:01:19: Already following 5646857911.. skipping over.
+10-04-2018 11:01:20: Followed user: tnasty6987
+10-04-2018 11:01:22: Followed user: byron615
+10-04-2018 11:01:26: Followed user: mariewillians
+10-04-2018 11:01:27: Followed user: how_high_
+10-04-2018 11:01:31: Followed user: mr_spanoo
+10-04-2018 11:01:35: Followed user: imshmackedtowson
+10-04-2018 11:01:40: Followed user: d_mazzola
+10-04-2018 11:01:43: Followed user: dav_ejones
+10-04-2018 11:01:46: Followed user: josouuu
+10-04-2018 11:01:50: Followed user: fit.maf
+10-04-2018 11:01:54: Followed user: alexieisom
+10-04-2018 11:01:55: Followed user: lupita_dym25
+10-04-2018 11:01:59: Followed user: ryanwolf36
+10-04-2018 11:02:01: Followed user: jack_vandermolen
+10-04-2018 11:02:04: Followed user: jackiecoleman
+10-04-2018 11:02:07: Followed user: nponkka17
+10-04-2018 11:02:11: Followed user: chrishall25
+10-04-2018 11:02:15: Followed user: esteban_juan71
+10-04-2018 11:02:17: Followed user: solcitolopezz
+10-04-2018 11:02:20: Followed user: pam.hiltunen
+10-04-2018 11:02:22: Current Amount of Tracked Following: 514
+10-04-2018 11:02:22: Taking a break for 20 minutes 34 seconds.
+10-04-2018 11:22:56: Unfollowing some users..
+10-04-2018 11:22:58: Unfollowing some users..
+10-04-2018 11:23:01: Unfollowing some users..
+10-04-2018 11:23:03: Unfollowing some users..
+10-04-2018 11:23:05: Unfollowing some users..
+10-04-2018 11:23:06: Unfollowing some users..
+10-04-2018 11:23:10: Unfollowing some users..
+10-04-2018 11:23:13: Unfollowing some users..
+10-04-2018 11:23:15: Unfollowing some users..
+10-04-2018 11:23:18: Unfollowing some users..
+10-04-2018 11:23:20: Unfollowing some users..
+10-04-2018 11:23:22: Unfollowing some users..
+10-04-2018 11:23:23: Unfollowing some users..
+10-04-2018 11:23:26: Unfollowing some users..
+10-04-2018 11:23:28: Unfollowing some users..
+10-04-2018 11:23:30: Unfollowing some users..
+10-04-2018 11:23:32: Unfollowing some users..
+10-04-2018 11:23:36: Unfollowing some users..
+10-04-2018 11:23:39: Unfollowing some users..
+10-04-2018 11:23:41: Unfollowing some users..
+10-04-2018 11:23:43: Unfollowing some users..
+10-04-2018 11:23:45: Unfollowing some users..
+10-04-2018 11:23:49: Unfollowing some users..
+10-04-2018 11:23:51: Unfollowing some users..
+10-04-2018 11:23:53: Unfollowing some users..
+10-04-2018 11:23:54: Unfollowing some users..
+10-04-2018 11:23:56: Unfollowing some users..
+10-04-2018 11:23:58: Unfollowing some users..
+10-04-2018 11:24:00: Unfollowing some users..
+10-04-2018 11:24:04: Unfollowing some users..
+10-04-2018 11:24:08: Unfollowing some users..
+10-04-2018 11:24:12: Unfollowing some users..
+10-04-2018 11:24:15: Unfollowing some users..
+10-04-2018 11:24:19: Current Amount of Tracked Following: 481
+10-04-2018 11:24:19: Taking a break for 18 minutes 59 seconds.
+10-04-2018 11:43:18: Unfollowing some users..
+10-04-2018 11:43:20: Unfollowing some users..
+10-04-2018 11:43:21: Unfollowing some users..
+10-04-2018 11:43:24: Unfollowing some users..
+10-04-2018 11:43:27: Unfollowing some users..
+10-04-2018 11:43:30: Unfollowing some users..
+10-04-2018 11:43:32: Unfollowing some users..
+10-04-2018 11:43:34: Unfollowing some users..
+10-04-2018 11:43:36: Unfollowing some users..
+10-04-2018 11:43:38: Unfollowing some users..
+10-04-2018 11:43:42: Unfollowing some users..
+10-04-2018 11:43:46: Unfollowing some users..
+10-04-2018 11:43:49: Unfollowing some users..
+10-04-2018 11:43:53: Unfollowing some users..
+10-04-2018 11:43:55: Unfollowing some users..
+10-04-2018 11:43:58: Unfollowing some users..
+10-04-2018 11:44:01: Unfollowing some users..
+10-04-2018 11:44:03: Unfollowing some users..
+10-04-2018 11:44:05: Unfollowing some users..
+10-04-2018 11:44:08: Unfollowing some users..
+10-04-2018 11:44:11: Unfollowing some users..
+10-04-2018 11:44:13: Unfollowing some users..
+10-04-2018 11:44:15: Unfollowing some users..
+10-04-2018 11:44:18: Unfollowing some users..
+10-04-2018 11:44:21: Unfollowing some users..
+10-04-2018 11:44:25: Unfollowing some users..
+10-04-2018 11:44:29: Unfollowing some users..
+10-04-2018 11:44:32: Unfollowing some users..
+10-04-2018 11:44:36: Unfollowing some users..
+10-04-2018 11:44:40: Current Amount of Tracked Following: 452
+10-04-2018 11:44:40: Taking a break for 22 minutes 37 seconds.
+10-04-2018 12:07:17: Unfollowing some users..
+10-04-2018 12:07:18: Unfollowing some users..
+10-04-2018 12:07:22: Unfollowing some users..
+10-04-2018 12:07:25: Unfollowing some users..
+10-04-2018 12:07:27: Unfollowing some users..
+10-04-2018 12:07:30: Unfollowing some users..
+10-04-2018 12:07:33: Unfollowing some users..
+10-04-2018 12:07:35: Unfollowing some users..
+10-04-2018 12:07:39: Unfollowing some users..
+10-04-2018 12:07:43: Unfollowing some users..
+10-04-2018 12:07:47: Unfollowing some users..
+10-04-2018 12:07:49: Unfollowing some users..
+10-04-2018 12:07:51: Unfollowing some users..
+10-04-2018 12:07:52: Unfollowing some users..
+10-04-2018 12:07:54: Unfollowing some users..
+10-04-2018 12:07:57: Unfollowing some users..
+10-04-2018 12:08:00: Unfollowing some users..
+10-04-2018 12:08:02: Unfollowing some users..
+10-04-2018 12:08:05: Unfollowing some users..
+10-04-2018 12:08:08: Unfollowing some users..
+10-04-2018 12:08:09: Unfollowing some users..
+10-04-2018 12:08:12: Unfollowing some users..
+10-04-2018 12:08:16: Unfollowing some users..
+10-04-2018 12:08:17: Unfollowing some users..
+10-04-2018 12:08:20: Unfollowing some users..
+10-04-2018 12:08:23: Unfollowing some users..
+10-04-2018 12:08:27: Current Amount of Tracked Following: 426
+10-04-2018 12:08:27: Taking a break for 20 minutes 54 seconds.
+10-04-2018 12:29:21: Unfollowing some users..
+10-04-2018 12:29:24: Unfollowing some users..
+10-04-2018 12:29:28: Unfollowing some users..
+10-04-2018 12:29:30: Unfollowing some users..
+10-04-2018 12:29:31: Unfollowing some users..
+10-04-2018 12:29:35: Unfollowing some users..
+10-04-2018 12:29:37: Unfollowing some users..
+10-04-2018 12:29:40: Unfollowing some users..
+10-04-2018 12:29:44: Unfollowing some users..
+10-04-2018 12:29:46: Unfollowing some users..
+10-04-2018 12:29:47: Unfollowing some users..
+10-04-2018 12:29:50: Unfollowing some users..
+10-04-2018 12:29:54: Unfollowing some users..
+10-04-2018 12:29:56: Unfollowing some users..
+10-04-2018 12:29:59: Unfollowing some users..
+10-04-2018 12:30:03: Unfollowing some users..
+10-04-2018 12:30:05: Unfollowing some users..
+10-04-2018 12:30:09: Unfollowing some users..
+10-04-2018 12:30:10: Unfollowing some users..
+10-04-2018 12:30:13: Unfollowing some users..
+10-04-2018 12:30:16: Unfollowing some users..
+10-04-2018 12:30:18: Unfollowing some users..
+10-04-2018 12:30:22: Unfollowing some users..
+10-04-2018 12:30:26: Unfollowing some users..
+10-04-2018 12:30:29: Unfollowing some users..
+10-04-2018 12:30:30: Unfollowing some users..
+10-04-2018 12:30:34: Unfollowing some users..
+10-04-2018 12:30:35: Unfollowing some users..
+10-04-2018 12:30:39: Unfollowing some users..
+10-04-2018 12:30:42: Unfollowing some users..
+10-04-2018 12:30:44: Unfollowing some users..
+10-04-2018 12:30:47: Current Amount of Tracked Following: 395
+10-04-2018 12:30:47: Taking a break for 19 minutes 12 seconds.
