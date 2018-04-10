@@ -10,7 +10,7 @@ def startBot(username, password, copy):
 
 if __name__ == "__main__":
 
-    db = DB()
+    db = None
     jobs = []
 
     while True:
@@ -30,22 +30,20 @@ if __name__ == "__main__":
                 print("\n\nActive Accounts:")
                 for i in range(0, len(jobs)):
                     currentJob = jobs[i]
+                    db = DB("accounts/" + currentJob[0] + "/data.db")
                     status = ""
                     if currentJob[1].is_alive():
-                        db.create_connection("accounts/" + currentJob[0] + "/data.db")
                         expires = db.expired()
-                        db.close()
                         status = "ACTIVE (Expires " + str(expires) + ")"
                     else:
                         if os.path.exists('accounts/' + currentJob[0]):
-                            db.create_connection("accounts/" + currentJob[0] + "/data.db")
                             expires = datetime.strptime(db.expired(), "%Y-%m-%d %H:%M:%S.%f")
-                            db.close()
                             if expires <= datetime.now():
                                 status = "DEAD"
                             else:
                                 status = "DEAD | NOT EXPIRED - RELOAD ACCOUNT"
                     print(str(i + 1) + ": " + currentJob[0] + " - " + status)
+                    db = None
 
             print("\n")
         elif inp == '2':
@@ -77,6 +75,9 @@ if __name__ == "__main__":
         elif inp == '5':
             confirmation = raw_input("Are you sure you want to exit? All accounts will be shut down (Y/N): ")
             if confirmation == 'y' or confirmation == 'Y':
+                for i in range(0, len(jobs)):
+                    currentJob = jobs[i][1]
+                    currentJob.terminate()
                 exit()
             elif confirmation == 'n' or confirmation == 'N':
                 continue
