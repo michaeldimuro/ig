@@ -83,21 +83,19 @@ class Bot:
                 self.writeLog("Finished Cleaning Up.. Shutting down.")
                 exit()
 
-            # IF PREVIOUS DATABASE LIST IS GREATER THAN 500 USERS, SET TO START UNFOLLOWING
-            if len(self.botFollowed) >= 500:
-                self.botFollowed.reverse()
-                unfollow = True
-
-            # # GATHER LIST OF USERS TO FOLLOW FROM A COPY ACCOUNT
-            # if not unfollow and not forceUnfollow:
-            #     randomCopyIndex = randint(0, len(self.interests) - 1)
-            #     self.writeLog("Getting interest followers from " + str(self.copyAccounts[randomCopyIndex]))
-            #     interestFollowers = self.api.getTotalFollowers(self.interests[randomCopyIndex])
-            #     randFollowStart = randint(0, len(interestFollowers) - 1)
-            #     currentFollowIndex = randFollowStart
-            #     self.writeLog("Finished retrieving interest followers")
-
             for i in range(1, randint(27, 35)):
+
+                # IF PREVIOUS DATABASE LIST IS GREATER THAN 500 USERS, SET TO START UNFOLLOWING
+                if len(self.botFollowed) >= 500:
+                    self.botFollowed.reverse()
+                    unfollow = True
+                    self.writeLog("Following more than 500 users. Switched to unfollow.")
+
+                if len(self.botFollowed) <= 250 and unfollow and not forceUnfollow:
+                    self.botFollowed.reverse()
+                    self.unfollow = False
+                    self.writeLog("Following less than 250 users. Switched to follow.")
+
                 if not unfollow and not forceUnfollow:
                     randomFollowIndex = randint(0, len(self.interests))
                     if randomFollowIndex == len(self.interests):
@@ -125,10 +123,9 @@ class Bot:
                             break
                         self.db.remove_followed(self.username, targetUnfollow)
                         self.botFollowed.pop()
-                        if len(self.botFollowed) <= 250 and not forceUnfollow:
-                            self.botFollowed.reverse()
-                            self.unfollow = False
                         time.sleep(randint(1, 3))
+                    else:
+                        break
 
             self.writeLog("Current Amount of Tracked Following: " + str(len(self.botFollowed)))
             self.randomBreak()
