@@ -106,3 +106,46 @@
 05-04-2018 20:47:28: Followed user: e_maccordy
 05-04-2018 20:47:29: Followed user: hazzy_acrobeast
 05-04-2018 20:47:32: Taking a break for 23 minutes 17 seconds.
+18-04-2018 01:17:13: Successful Login!
+18-04-2018 01:17:28: Found Copy Account: icomeup
+18-04-2018 01:17:54: Found Copy Account: icomeupmiami
+18-04-2018 01:18:11: Found Copy Account: codykerns5
+18-04-2018 01:18:18: Found Copy Account: jeremybish0p
+18-04-2018 01:18:40: Found Copy Account: keeganboroski
+18-04-2018 01:18:49: Found Copy Account: pack_brandon_
+18-04-2018 01:19:07: Found Copy Account: riverkerns
+18-04-2018 01:19:38: Getting Copy Followers from pack_brandon_
+18-04-2018 01:20:01: ANTIBAN: Followed user: katie_niebeling sleeping for 5 seconds..
+18-04-2018 01:20:07: ANTIBAN: Followed user: marina_schiavo sleeping for 9 seconds..
+18-04-2018 01:20:17: ANTIBAN: Followed user: taina_brzesky2605 sleeping for 9 seconds..
+18-04-2018 01:20:27: ANTIBAN: Followed user: daniela_vasquez sleeping for 6 seconds..
+18-04-2018 01:20:34: ANTIBAN: Fetching feed for: kelvincurrencie.. sleeping for 6 seconds.
+18-04-2018 01:20:41: ANTIBAN: Followed user: kelvincurrencie sleeping for 2 seconds..
+18-04-2018 01:20:44: ANTIBAN: Fetching feed for: kris.izquierdo.. sleeping for 13 seconds.
+18-04-2018 01:21:09: ANTIBAN: Followed user: kris.izquierdo sleeping for 8 seconds..
+18-04-2018 01:21:17: ANTIBAN: Fetching feed for: _kristinaogden.. sleeping for 11 seconds.
+18-04-2018 01:21:29: ANTIBAN: Followed user: _kristinaogden sleeping for 6 seconds..
+18-04-2018 01:21:36: ANTIBAN: Fetching feed for: harrisjai.. sleeping for 11 seconds.
+18-04-2018 01:21:48: ANTIBAN: Followed user: harrisjai sleeping for 7 seconds..
+18-04-2018 01:21:56: ANTIBAN: Followed user: beberexhaup sleeping for 1 seconds..
+18-04-2018 01:21:58: ANTIBAN: Followed user: morgann_taylorrr sleeping for 2 seconds..
+18-04-2018 01:22:01: ANTIBAN: Followed user: ericakilleenrealty sleeping for 2 seconds..
+18-04-2018 01:22:03: ANTIBAN: Followed user: morgann.jasminee sleeping for 5 seconds..
+18-04-2018 01:22:10: ANTIBAN: Followed user: jean_markovic sleeping for 6 seconds..
+18-04-2018 01:22:17: ANTIBAN: Followed user: jakemcneil01 sleeping for 7 seconds..
+18-04-2018 01:22:24: ANTIBAN: Fetching feed for: oliviaeisler.. sleeping for 10 seconds.
+18-04-2018 01:22:35: ANTIBAN: Followed user: oliviaeisler sleeping for 6 seconds..
+18-04-2018 01:22:42: ANTIBAN: Followed user: mileemacias sleeping for 4 seconds..
+18-04-2018 01:22:47: ANTIBAN: Followed user: jstewart78312 sleeping for 8 seconds..
+18-04-2018 01:22:56: ANTIBAN: Followed user: boeva_uliia_ sleeping for 9 seconds..
+18-04-2018 01:23:06: ANTIBAN: Followed user: ashleymelissaturner sleeping for 3 seconds..
+18-04-2018 01:23:10: ANTIBAN: Fetching feed for: luisadossantossantos.. sleeping for 10 seconds.
+18-04-2018 01:23:37: ANTIBAN: Followed user: luisadossantossantos sleeping for 6 seconds..
+18-04-2018 01:23:44: ANTIBAN: Fetching feed for: chijachiba.. sleeping for 10 seconds.
+18-04-2018 01:24:17: ANTIBAN: Followed user: chijachiba sleeping for 7 seconds..
+18-04-2018 01:24:25: ANTIBAN: Followed user: _austincoley sleeping for 9 seconds..
+18-04-2018 01:24:35: ANTIBAN: Fetching feed for: hannah.monell.. sleeping for 11 seconds.
+18-04-2018 01:24:59: ANTIBAN: Followed user: hannah.monell sleeping for 4 seconds..
+18-04-2018 01:25:03: Current Amount of Tracked Following: 114
+18-04-2018 01:25:03: ANTIBAN: Taking a break for 21 minutes 29 seconds.
+18-04-2018 01:46:32: Getting Copy Followers from codykerns5

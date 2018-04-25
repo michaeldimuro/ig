@@ -14,6 +14,8 @@ class Bot:
     interests = []
     botFollowed = []
     copyAccounts = []
+    bedTime = datetime.now()
+    wakeupTime = datetime.now()
 
     def __init__(self, username, password, copy):
         self.username = username
@@ -24,8 +26,10 @@ class Bot:
             self.writeLog("Successful Login!")
             self.db = DB("accounts/" + username + "/data.db")
             self.botFollowed = self.db.bot_followed(self.username)
+            time.sleep(randint(4, 32))
             self.copyAccounts = copy
             self.resolveCopyAccounts(copy)
+            self.setSleepClock()
         else:
             print("\nCould not log in to " + self.username + "\n")
             exit()
@@ -35,21 +39,24 @@ class Bot:
             self.api.searchUsername(c[i])
             try:
                 copyAccountID = self.api.LastJson['user']['pk']
-                self.writeLog("Getting interest followers from " + str(c[i]))
-                copyFollowers = self.api.getTotalFollowers(copyAccountID)
-
-                if len(copyFollowers) >= 15000:
-                    self.writeLog("Caching 15000 users from " + str(c[i]))
-                    randFollowStart = randint(0, len(copyFollowers) - 15001)
-                    self.interests = self.interests + copyFollowers[randFollowStart:randFollowStart + 15000]
-                else:
-                    self.writeLog("Caching " + str(len(copyFollowers)) + " users from " + str(c[i]))
-                    self.interests = self.interests + copyFollowers
+                self.writeLog("Found Copy Account: " + str(c[i]))
+                self.interests.append(copyAccountID)
+                time.sleep(randint(6, 42))
             except:
                 self.writeLog("Invalid Copy Account: " + str(c[i]))
+                time.sleep(randint(17, 42))
                 pass
 
+    def setSleepClock(self):
+        now = datetime.now()
 
+        bedTimeHour = randint(1, 3)
+        bedTimeMinute = randint(0, 59)
+        self.bedTime = now.replace(day=int(now.day) + 1,hour=bedTimeHour, minute=bedTimeMinute, second=randint(0, 59))
+
+        wakeupTimeHour = randint(6, 8)
+        wakeupTimeMinute = randint(0, 59)
+        self.wakeupTime = now.replace(hour=int(wakeupTimeHour) + 1, minute=wakeupTimeMinute, second=randint(0, 59))
 
     def run(self):
 
@@ -58,6 +65,9 @@ class Bot:
         forceUnfollow = False
         # FETCH EXPIRATION TIME
         expires = datetime.strptime(self.db.expired(), "%Y-%m-%d %H:%M:%S.%f")
+
+        followUpperBound = randint(490, 562)
+        followLowerBound = randint(224, 298)
 
         # IF BOTFOLLOW IS EMPTY, TRY TO FETCH FROM DATABASE
         if len(self.botFollowed) == 0:
@@ -71,36 +81,71 @@ class Bot:
         # MAIN APPLICATION LOOP
         while True:
 
+            copyFollowers = []
+
             if len(self.interests) == 0:
                 self.writeLog("No users left in interests pool.")
                 exit()
             # CHECK FOR SUBSCRIPTION EXPIRATION - IF EXPIRED, START UNFOLLOWING AND
-            if expires <= datetime.now():
+
+            now = datetime.now()
+
+            if expires <= now:
                 self.writeLog("Subscription has expired. Unfollowing all users and cleaning up..")
                 forceUnfollow = True
+
+            if self.bedTime <= now and now <= self.wakeupTime:
+                self.writeLog("ANTIBAN: Humans need to sleep too.. Waking up at " + str(self.wakeupTime.time().hour))
+                time.sleep(randint(3000, 3600))
+                pass
+
 
             if forceUnfollow and len(self.botFollowed) == 0:
                 self.writeLog("Finished Cleaning Up.. Shutting down.")
                 exit()
 
-            for i in range(1, randint(27, 35)):
+            if not unfollow and not forceUnfollow:
+                copyUserIndex = randint(0, len(self.interests) - 1)
+                self.writeLog("Getting Copy Followers from " + str(self.copyAccounts[copyUserIndex]))
+                copyFollowers = self.api.getTotalFollowers(self.interests[copyUserIndex])
+
+            actionRange = randint(11, 35)
+            for i in range(1, actionRange):
 
                 # IF PREVIOUS DATABASE LIST IS GREATER THAN 500 USERS, SET TO START UNFOLLOWING
-                if len(self.botFollowed) >= 500:
+                if len(self.botFollowed) >= followUpperBound:
                     self.botFollowed.reverse()
                     unfollow = True
-                    self.writeLog("Following more than 500 users. Switched to unfollow.")
+                    self.writeLog("Following more than " + str(followUpperBound) + " users. Switched to unfollow.")
+                    followUpperBound = randint(490, 562)
 
-                if len(self.botFollowed) <= 250 and unfollow and not forceUnfollow:
+                if len(self.botFollowed) <= followLowerBound and unfollow and not forceUnfollow:
                     self.botFollowed.reverse()
-                    self.unfollow = False
-                    self.writeLog("Following less than 250 users. Switched to follow.")
+                    unfollow = False
+                    self.writeLog("Following less than " + str(followLowerBound) + " users. Switched to follow.")
+                    followLowerBound = randint(224, 298)
 
-                if not unfollow and not forceUnfollow:
-                    randomFollowIndex = randint(0, len(self.interests))
-                    if randomFollowIndex == len(self.interests):
+                if not unfollow and not forceUnfollow and len(copyFollowers) != 0:
+                    randomFollowIndex = randint(0, len(copyFollowers) - 1)
+                    if randomFollowIndex == len(copyFollowers) - 1:
                         randomFollowIndex = 0
-                    targetFollow = self.interests[randomFollowIndex]
+                    targetFollow = copyFollowers[randomFollowIndex]
+                    if randint(0, 100) > 50 and targetFollow['is_private'] == False:
+                        self.api.getUserFeed(str(targetFollow['pk']))
+                        s = randint(3, 15)
+                        self.writeLog(
+                            "ANTIBAN: Fetching feed for: " + str(targetFollow['username']) + ".. sleeping for " + str(s) + " seconds.")
+                        time.sleep(s)
+                        if randint(0, 100) >= 30:
+                            randomFollowerFeed = self.api.LastJson['items']
+                            if len(randomFollowerFeed) > 0:
+                                for i in range(1, randint(0, 5)):
+                                    mediaId = randomFollowerFeed[randint(0, len(randomFollowerFeed) - 1)]['id']
+                                    self.api.mediaInfo(mediaId)
+                                    time.sleep(randint(1, 3))
+                                    self.api.like(mediaId)
+                                    self.writeLog("Liked " + targetFollow['username'] + " photo")
+                                    time.sleep(randint(3, 7))
                     if targetFollow['pk'] in self.botFollowed:
                         self.writeLog("Already following " + str(targetFollow['pk']) + ".. skipping over.")
                         pass
@@ -110,20 +155,21 @@ class Bot:
                     else:
                         self.botFollowed.append(targetFollow['pk'])
                         self.db.add_follow(self.username, targetFollow['pk'])
-                        self.writeLog("Followed user: " + str(targetFollow['username']))
-                        if targetFollow['pk'] in self.interests:
-                            self.interests.remove(targetFollow['pk'])
-                        time.sleep(randint(1, 3))
+                        s = randint(1, 9)
+                        self.writeLog("ANTIBAN: Followed user: " + str(targetFollow['username'] + " sleeping for " + str(s) + " seconds.."))
+                        time.sleep(s)
+                        # if targetFollow['pk'] in self.interests:
+                        #     self.interests.remove(targetFollow['pk'])
+
                 else:
                     if len(self.botFollowed) > 0:
                         self.writeLog("Unfollowing some users..")
                         targetUnfollow = self.botFollowed[len(self.botFollowed) - 1]
                         if not self.api.unfollow(targetUnfollow):
-                            self.checkRelationships()
                             break
                         self.db.remove_followed(self.username, targetUnfollow)
                         self.botFollowed.pop()
-                        time.sleep(randint(1, 3))
+                        time.sleep(randint(4, 12))
                     else:
                         break
 
@@ -140,11 +186,11 @@ class Bot:
         self.botFollowed = self.db.bot_followed(self.username)
 
     def randomBreak(self):
-        sleepTime = randint(1080, 1440)
+        sleepTime = randint(900, 1440)
         sleepTimeInMins = sleepTime / 60
         sleepTimeExtraSecs = sleepTime % 60
         self.writeLog(
-            "Taking a break for " + str(sleepTimeInMins) + " minutes " + str(sleepTimeExtraSecs) + " seconds.")
+            "ANTIBAN: Taking a break for " + str(sleepTimeInMins) + " minutes " + str(sleepTimeExtraSecs) + " seconds.")
         time.sleep(sleepTime)
 
     def writeLog(self, line):

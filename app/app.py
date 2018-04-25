@@ -4,9 +4,11 @@ from datetime import datetime
 from bot import Bot
 from db import DB
 
+
 def startBot(username, password, copy):
     b = Bot(username, password, copy)
     b.run()
+
 
 if __name__ == "__main__":
 
@@ -51,9 +53,12 @@ if __name__ == "__main__":
             username = raw_input("Username: ")
             password = raw_input("Password: ")
 
-            for i in range(0, 3):
-               a = raw_input("Copy " + str(i + 1) + ": ")
-               copy.append(a)
+            for i in range(0, 10):
+                a = raw_input("Copy " + str(i + 1) + ": ")
+                if a != "":
+                    copy.append(a)
+                else:
+                    break
 
             p = multiprocessing.Process(target=startBot, args=(username, password, copy,))
             jobs.append([username, p])
