@@ -63,6 +63,7 @@ class Bot:
         # SET INITIAL FOLLOW VARIABLE
         unfollow = False
         forceUnfollow = False
+        breakFlag = False
         # FETCH EXPIRATION TIME
         expires = datetime.strptime(self.db.expired(), "%Y-%m-%d %H:%M:%S.%f")
 
@@ -166,7 +167,13 @@ class Bot:
                         self.writeLog("Unfollowing some users..")
                         targetUnfollow = self.botFollowed[len(self.botFollowed) - 1]
                         if not self.api.unfollow(targetUnfollow):
-                            break
+                            if breakFlag:
+                                self.db.remove_followed(self.username, targetUnfollow)
+                                self.botFollowed.pop()
+                                breakFlag = False
+                            else:
+                                breakFlag = True
+                                break
                         self.db.remove_followed(self.username, targetUnfollow)
                         self.botFollowed.pop()
                         time.sleep(randint(4, 12))
