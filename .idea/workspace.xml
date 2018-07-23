@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3b13fbb2-5251-4840-91b2-ecba9ef2a506" name="Default" comment="Cache interest followers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/bot.py" afterPath="$PROJECT_DIR$/app/bot.py" />
+      <change beforePath="$PROJECT_DIR$/app/accounts/blitzmediamarketing/data.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/accounts/blitzmediamarketing/log.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/accounts/ijerseywebdesign/data.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/accounts/ijerseywebdesign/log.txt" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +32,8 @@
       <file leaf-file-name="bot.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state relative-caret-position="-1192">
+              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -141,8 +144,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,19 +157,6 @@
               <item name="Instagram-API-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Instagram-API-python" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Instagram-API-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Instagram-API-python" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Instagram-API-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Instagram-API-python" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-              <item name="ijerseywebdesign" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Instagram-API-python" type="b2602c69:ProjectViewProjectNode" />
@@ -666,8 +656,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        <state relative-caret-position="-1192">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
