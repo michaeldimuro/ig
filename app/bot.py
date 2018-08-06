@@ -108,7 +108,11 @@ class Bot:
             if not unfollow and not forceUnfollow:
                 copyUserIndex = randint(0, len(self.interests) - 1)
                 self.writeLog("Getting Copy Followers from " + str(self.copyAccounts[copyUserIndex]))
-                copyFollowers = self.api.getTotalFollowers(self.interests[copyUserIndex])
+                try:
+                    copyFollowers = self.api.getTotalFollowers(self.interests[copyUserIndex])
+                except KeyError:
+                    self.writeLog("KEY ERROR")
+                    pass
 
             actionRange = randint(11, 35)
             for i in range(1, actionRange):
