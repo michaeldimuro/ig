@@ -6,7 +6,7 @@
 
 3. cd instazam-cli/app
 
-4. Execute by running app.py
+4. Execute by running 'python app.py'
 
 ** This is an old version and is not entirely persistent. New version contains hooks to web platform and online database to resolve persistancy issues. Not available to the public. **
 
